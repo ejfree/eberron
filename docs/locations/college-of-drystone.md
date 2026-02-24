@@ -89,6 +89,10 @@ Mechanical systems, clockwork, warforged subsystem research, and precision fabri
 
 New arcane technologies, experimental transmutation applications, and cross-disciplinary innovation projects. The walls between floors are not always walls here.
 
+IT is the primary operational front for Trust activity within the College of Drystone. Its research mandate provides cover for a substantial intelligence infrastructure: personnel movements, communications intercepts, enchantment procurement, and special acquisitions. When IT submits a purchase order, it is processed without scrutiny at every level of the college. When IT's name comes up in an investigation, the investigation stops.
+
+All Trust operatives stationed in the college — including those in Administration, Shipping & Receiving, and Facilities — ultimately report up through IT's chain of command. Umpeen Bafflestone (L3, Administration) reports to a Level 4 Sub-Director based on the 10th floor whose name does not appear in any college directory.
+
 ### 11th Floor — Research Support
 
 Administrative and logistical support for the 12th floor. What exactly requires an entire floor of support infrastructure is not communicated to anyone below the 12th.

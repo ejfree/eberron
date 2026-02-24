@@ -9,4 +9,4 @@ Personality: Eccentric and domineering, Umpen will drive conversation. He is ske
 
 History: Umpen was born to in a poor docking district. He spent his early days working in the same smith shop his father was employed at, doing general labor. His father was a mechanic, and taught him how to fix just about anything. He remains aloof and afraid to be himself due to all the ideals others have placed upon him.
 
-Above Table: Umpeen is also part of the Trust and is a Level 3 operative in their rank structure. He is the supervisor of all lower floor trust spies. His position of greeter allows him to monitor the flow of people through administration. 
+Above Table: Umpeen is also part of the Trust and is a Level 3 operative in their rank structure. He is the supervisor of all lower floor trust spies. His position of greeter allows him to monitor the flow of people through administration. He reports to a Level 4 Sub-Director on the 10th floor (Innovation & Transformation), whose name does not appear in any college directory. IT is the operational hub for all Trust activity in the college; Umpeen is its eyes and ears in the basement.
