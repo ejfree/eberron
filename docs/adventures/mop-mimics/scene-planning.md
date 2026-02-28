@@ -1,6 +1,6 @@
 # Mop Mimics — Scene Planning
 
-**System:** Savage Worlds Adventure Edition (SWADE)
+**System:** D&D 5e (SRD 5.1, CC-BY 4.0 — no WotC purchase required)
 **Setting:** College of Drystone, Korranberg, Zilargo
 **Tone:** Gnome bureaucracy comedy with genuine stakes. Think office farce that turns into a real investigation.
 **Runtime target:** 3–4 hours
@@ -43,7 +43,7 @@ If the party asks why not Facilities:
 If the party asks who they are / why them:
 > "You were available. Go."
 
-**SWADE note:** No roll needed here. This is pure scene-setting. Give each player a moment to introduce their character to the others if they haven't.
+**5e note:** No roll needed here. This is pure scene-setting. Give each player a moment to introduce their character to the others if they haven't. Encourage them to describe what they look like.
 
 ---
 
@@ -54,24 +54,41 @@ If the party asks who they are / why them:
 **Boxed text:**
 > The hallway smells of pine cleaner and something older underneath it — damp stone, old wood. The closet door is a standard institutional affair: dark stained wood, brass handle, a small placard reading *FACILITIES — AUTHORIZED PERSONNEL*. The placard has been partially obscured by a second placard reading *AUTHORIZED PERSONNEL ONLY*. Through the gap in the door you can see a mop handle. It is slowly rotating.
 
-### The Fight — Mop Mimics (Extras)
+### The Fight — Mop Mimics
 
-Four mops have awakened. They are using the closet's tight quarters to their advantage. Standard mimic stat block reskinned as cleaning implements:
+Four Small mimics have awakened and taken the form of mops. Use the stat block below — a scaled-down version of the SRD Mimic appropriate for a first encounter.
 
-| Attribute | Value |
+**Mop Mimic** *(Small Monstrosity, Shapechanger)*
+
+| | |
 | --- | --- |
-| Type | Extra (x4) |
-| Agility | d6 |
-| Strength | d8 |
-| Fighting | d6 |
-| Toughness | 6 |
-| Special | Adhesive — on a raise, target is Entangled until a Strength (d8) test as an action |
+| **AC** | 12 (natural armor) |
+| **HP** | 9 (2d6 + 2) |
+| **Speed** | 10 ft. |
+| **STR** | 10 (+0) |
+| **DEX** | 12 (+1) |
+| **CON** | 12 (+1) |
+| **INT** | 5 (−3) |
+| **WIS** | 11 (+0) |
+| **CHA** | 8 (−1) |
+| **Skills** | Stealth +5 |
+| **Immunities** | Acid damage; Prone condition |
+| **CR** | 1/4 (50 XP each) |
 
-**Tactics:** Two mops immediately try to grapple (Entangle) the nearest character. Two attack freely. The tight closet counts as Difficult Ground for movement. Anyone knocked Shaken in the closet risks falling into the shelving — GM's call on a free Agility roll to avoid knocking cleaning products everywhere.
+**False Appearance:** While motionless in object form, indistinguishable from an ordinary mop.
+
+**Adhesive:** The mimic adheres to anything that touches it. A creature adhered to the mimic is **Grappled** (escape DC 10). Checks made to escape this grapple have disadvantage.
+
+**Actions:**
+
+- **Pseudopod.** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1d4 bludgeoning damage. If in object form, the target must succeed on a DC 10 Strength saving throw or become Grappled (see Adhesive).
+- **Bite.** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one Grappled target. *Hit:* 1d4 + 1 piercing damage.
+
+**Tactics:** Two mimics immediately try to Grapple the nearest characters with their Pseudopod. Two attack freely. The tight closet is **Difficult Terrain** — movement costs double. Any character reduced to 0 HP in the closet should be narrated as knocked into the shelving rather than dying; this is a comedy adventure.
 
 **The destruction:** The closet does not survive this encounter intact. Shelves collapse. Bottles break. Someone is going to end this fight smelling like ammonia. This matters for the next scene.
 
-**After the fight:** The mimics revert to mop shape when incapacitated. They look like perfectly normal mops again. The party now has to explain what happened to a closet full of broken shelving, spilled product, and four suspiciously limp mops.
+**After the fight:** The mimics revert to mop shape when reduced to 0 HP. They look like perfectly normal mops again. The party now has to explain what happened to a closet full of broken shelving, spilled product, and four suspiciously limp mops.
 
 ---
 
@@ -86,7 +103,7 @@ If the party explains mimics:
 
 He gives them a handwritten note to present to Administration. The note is addressed to no one, signed only with an initial, and says: *"Re: Closet incident, 4th floor. Please advise on replacement protocol. — R."*
 
-**SWADE note:** If a player tries to Notice something in Roondar's office (and makes their roll), they spot a half-empty bottle of wine in the locked cabinet labeled *AngryCat 30/30 — Reserve Vintage.* He gets visibly annoyed if anyone points it out.
+**5e note:** A DC 12 Wisdom (Perception) check — or a passive Perception of 12 or higher — lets a player notice a half-empty bottle in Roondar's locked cabinet labeled *AngryCat 30/30 — Reserve Vintage.* He gets visibly annoyed if anyone points it out.
 
 ---
 
@@ -138,7 +155,7 @@ He will offer food regardless of the answer. The food is exceptional. Jabbie use
 
 **Above the Table:** Jabbie is a Vortex Dragon. This session he is purely a warm, curious, slightly eccentric NPC. He knows more than he lets on about Supply's actual function. He will not intervene in anything tonight. The Doyenne is aware of all of it.
 
-If a player rolls Notice (TN 6) while talking to Jabbie, they catch something: his tattoos shift slightly in the light, almost as if they're moving under the skin. He notices them noticing, smiles pleasantly, and offers more food.
+**5e note:** A DC 12 Wisdom (Perception) check — or passive Perception 12+ — while talking to Jabbie reveals that his tattoos shift slightly in the light, almost as if they're moving under the skin. He notices them noticing, smiles pleasantly, and offers more food.
 
 ---
 
@@ -157,7 +174,7 @@ Her actual concern is the inventory chain:
 
 She wants the party to find out how mimics ended up in the college's janitorial supply. She has a theory — something in Purchasing is off — but she needs external people to do the looking. Her own staff are too visible.
 
-**SWADE note:** A Persuasion roll (TN 4) gets her to share what she already suspects. A raise gets her to tell the party about Wobbles Cobblepot specifically.
+**5e note:** A DC 10 Charisma (Persuasion) check gets her to share what she already suspects. DC 15 gets her to name Wobbles Cobblepot specifically. She does not respond well to Intimidation — she's seen worse than the party.
 
 > "There's a gnome in Purchasing. Wobbles Cobblepot. He's been sloppy with intake paperwork for about two months. Late submissions, strange line items. I can't touch it directly — that's above my lane. You can."
 
@@ -173,9 +190,9 @@ She gives them temporary floor credentials. They can access Purchasing, which is
 
 Getting information from Wobbles is a social encounter, not a combat one. He is not malicious — he is ruined, scared, and in over his head. He will fold under any combination of:
 
-- Intimidation (TN 6) — he is already scared
-- Persuasion with evidence of the mimics (TN 4) — he genuinely feels bad
-- Notice (TN 6) — spots the AngryCat 30/30 label on something in his desk
+- DC 12 Charisma (Intimidation) — he is already scared, this isn't hard
+- DC 10 Charisma (Persuasion) with evidence of the mimics — he genuinely feels bad
+- DC 12 Wisdom (Perception) or passive Perception 12+ — spots the AngryCat 30/30 label on something in his desk, which opens a different conversation
 
 **What Wobbles confesses:**
 
@@ -186,7 +203,7 @@ Getting information from Wobbles is a social encounter, not a combat one. He is 
 
 He asks if he's going to lose his job. The party cannot answer this honestly.
 
-**The note:** Wobbles still has the original contact note in the lining of his jacket. He has not decided whether to mention it. If a player asks directly about proof, or rolls Notice (TN 8) while he's talking, they spot him unconsciously touching his jacket. The note is unsigned but has an IT department acquisition code printed in the header — standard internal procurement formatting. A Knowledge (Academics) or Streetwise roll (TN 6) identifies the code as a 10th floor IT requisition number.
+**The note:** Wobbles still has the original contact note in the lining of his jacket. He has not decided whether to mention it. A DC 15 Wisdom (Perception) check while he's talking spots him unconsciously touching his jacket. If asked directly about proof, he produces it without further pressure. The note is unsigned but has an IT department acquisition code printed in the header — standard internal procurement formatting. A DC 12 Intelligence (History) or Intelligence (Arcana) check identifies the code as a 10th floor Innovation & Transformation requisition number.
 
 At that point, Wobbles goes very quiet and says: *"I think you should probably stop asking about this."*
 
@@ -201,28 +218,45 @@ At that point, Wobbles goes very quiet and says: *"I think you should probably s
 **Boxed text:**
 > The building is unremarkable from the street. A narrow three-story structure, older stonework, no signage. The curtains on the second floor move slightly, then stop. When you knock, a voice from behind the door says: "I'm not receiving visitors."
 
-The party can try Persuasion to get her to talk through the door (TN 6). She will not be convinced to open it by words alone.
+The party can try a DC 12 Charisma (Persuasion) check to get her to talk through the door. She will not be convinced to open it by words alone.
 
-If they try to force entry: a Mimic (Wild Card) is waiting inside the front room.
+If they try to force entry: a Mimic is waiting inside the front room.
 
-### The Mimic Fight (Wild Card)
+### The Fight — Armoire Mimic
 
-Margery's workshop mimic is substantially larger than a mop — it has taken the form of an armoire. This is a proper fight.
+Margery's workshop guardian has taken the form of a large armoire. Use the standard SRD Mimic stat block — this is a proper, dangerous fight.
 
-| Attribute | Value |
+**Armoire Mimic** *(Large Monstrosity, Shapechanger)*
+
+| | |
 | --- | --- |
-| Type | Wild Card |
-| Agility | d6 |
-| Strength | d10 |
-| Fighting | d8 |
-| Toughness | 9 (2 armor, natural hide) |
-| Special | Adhesive — raise on attack Entangles target (Strength d10 to break, action) |
-| Special | Engulf — on Wild Card Benny spend, can attempt to swallow a Shaken target (opposed Agility vs Strength d10) |
-| Wild Die | d6 |
+| **AC** | 12 (natural armor) |
+| **HP** | 58 (9d10 + 9) |
+| **Speed** | 15 ft. |
+| **STR** | 17 (+3) |
+| **DEX** | 12 (+1) |
+| **CON** | 13 (+1) |
+| **INT** | 5 (−3) |
+| **WIS** | 13 (+1) |
+| **CHA** | 8 (−1) |
+| **Skills** | Stealth +5 |
+| **Immunities** | Acid damage; Prone condition |
+| **CR** | 2 (450 XP) |
 
-The room has environmental features: shelving with enchanting components, a worktable with active materials, narrow space. The mimic uses the furniture and clutter to limit movement.
+**False Appearance:** While motionless in object form, indistinguishable from an ordinary armoire.
 
-**Margery interrupts before the mimic is incapacitated** — or immediately upon its incapacitation if the fight goes long.
+**Adhesive:** The mimic adheres to anything that touches it. A creature adhered to the mimic is **Grappled** (escape DC 13). Checks made to escape this grapple have disadvantage.
+
+**Grappler:** The mimic has advantage on attack rolls against any creature Grappled by it.
+
+**Actions:**
+
+- **Pseudopod.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage. If in object form, the target must succeed on a DC 13 Strength saving throw or become Grappled (see Adhesive).
+- **Bite.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Grappled target. *Hit:* 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
+
+The room has environmental features: shelving with enchanting components, a worktable with active materials, narrow passages between stacked equipment. The mimic uses the clutter to limit movement — treat the workspace as Difficult Terrain except along the central aisle.
+
+**Margery interrupts before the mimic is reduced to 0 HP** — or immediately upon its incapacitation if the fight runs long.
 
 ---
 
@@ -230,7 +264,7 @@ The room has environmental features: shelving with enchanting components, a work
 
 **Above the Table:** Margery is not a villain. She does Trust work quietly and doesn't want scrutiny. The party being here at all is a problem for her.
 
-She appears from somewhere in the building — upstairs, a side room — and the fight stops the moment she does. She is calm, which is more alarming than anger would be.
+She appears from somewhere in the building — upstairs, a side room — and the fight stops the moment she does. She is calm, which is more alarming than anger would be. She is capable of ending any combat in this room and everyone present can tell.
 
 > "You're from the college. You're going to tell me the mops woke up."
 
@@ -249,13 +283,13 @@ She is, however, done with this conversation.
 The party returns to Supply with:
 
 - Confirmation of the mimic source (Margery Yardley)
-- The name of the client who commissioned them (unknown — intermediary only)
+- The IT acquisition code from Wobbles's note
 - Wobbles Cobblepot's confession
 - Possibly a ZPD citation
 
 **Glitter's response:**
 
-She is satisfied. The supply chain irregularity has a source. Wobbles's future employment is not the party's concern. The unknown client is her problem to pursue through her own channels.
+She is satisfied. The supply chain irregularity has a source. When the IT acquisition code surfaces, she looks at it once, sets it face-down on the desk, and does not pick it up again. Wobbles's future employment is not the party's concern. The IT connection is not something she is going to discuss.
 
 Then she tells them the other thing.
 
@@ -287,10 +321,27 @@ She forgets their names again immediately after saying this.
 
 ---
 
+## 5e Quick Reference — DCs Used in This Adventure
+
+| Check | Skill | DC | Notes |
+| --- | --- | --- | --- |
+| Notice AngryCat bottle in Roondar's office | Perception (Wis) | 12 | Or passive Perception 12+ |
+| Notice Jabbie's tattoos moving | Perception (Wis) | 12 | Or passive Perception 12+ |
+| Get Glitter to share suspicions | Persuasion (Cha) | 10 | — |
+| Get Glitter to name Wobbles | Persuasion (Cha) | 15 | — |
+| Intimidate Wobbles into talking | Intimidation (Cha) | 12 | He's already scared |
+| Persuade Wobbles with mimic evidence | Persuasion (Cha) | 10 | He feels genuinely bad |
+| Spot AngryCat label on Wobbles's desk | Perception (Wis) | 12 | Opens alternative angle |
+| Spot Wobbles touching his jacket | Perception (Wis) | 15 | Reveals the note exists |
+| Identify IT acquisition code | History or Arcana (Int) | 12 | Confirms 10th floor origin |
+| Persuade Margery through the door | Persuasion (Cha) | 12 | Will not open it regardless |
+
+---
+
 ## Open Threads (Future Sessions)
 
-- Who hired Wobbles? (The unknown intermediary)
-- Margery's past crime and childhood friend (her character sheet)
+- Why did IT order mimics, and what were they actually for?
+- Margery's past crime and childhood friend
 - Jabbie's true nature — the party may have noticed something
 - The AngryCat 30/30 bottle in Roondar's cabinet
 - The 13th floor

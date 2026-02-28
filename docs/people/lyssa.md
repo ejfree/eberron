@@ -7,6 +7,9 @@
 | **Base** | Korranberg, Zilargo |
 | **Tenure** | ~90 years as ruling matriarch |
 
+![Lysse Lyrriman d'Sivis](../../assets/images/lyssa.png)
+![Lysse — alternate portrait](../../assets/images/lyssa2.png)
+
 > "Communication is the lifeblood of civilization."
 
 ## Overview
