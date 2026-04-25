@@ -1,16 +1,22 @@
 # Trust Headquarters Complex
 
-The operational and administrative heart of the Trust is built in two parts: a vast underground cavern beneath the Korranberg Citadel, and a small above-ground front office that gives the whole complex a plausible public face. Together they house every division of the Trust, elite training facilities, archives, and rapid-extraction infrastructure.
+The operational and administrative heart of the Trust is built in two parts: a vast underground cavern beneath the Korranberg Citadel, as well as all the visible building of the the citadel itself that gives the whole complex a plausible public face. Together they house every division of the Trust, elite training facilities, archives, and rapid-extraction infrastructure.
 
 ---
 
 ## The Citadel (Above Ground)
 
-Built within a 100-foot promontory rising above the surrounding Citadel district of Korranberg, this seemingly ordinary mountain-citadel serves as the visible face of Zilargo's bureaucratic order.
+Built on top of a 100-foot promontory is the Citadel district of Korranberg, this seemingly ordinary mountain-citadel serves as the visible face of Zilargo's noble & bureaucratic orders. The following building represent the outer mask of the Trust. These above ground building are collectively called The Paper House, Level 8.
 
-- **Total footprint:** ~20 million sq ft, including inner halls, noble estates, diplomatic receiving areas, and concealed access points
-- **Access:** Two wide stairways (north and south) lead up the promontory, with smaller public lifts discreetly placed at the sides
-- **Perimeter openings:** Each side of the promontory features natural and carved openings leading to noble houses, observation decks, and interior chambers — none of which are dead ends; all subtly feed into the undercavern network below
+Promontory footprint: ~600–700 ft / ~180–210m long (E-W)
+Plaza (checkerboard): ~450 ft / ~140m wide (N-S)
+Height: 100 ft (established in existing text)
+
+* House Sivis — Ancestral Citadel including Audience Hall & Reception, Personal Quarters of Head of House, and Sivis Family Housing
+* Codex Vault
+* Notaries Guild
+* Speakers Guild
+* Zilargo PD
 
 ---
 
@@ -28,6 +34,10 @@ A massive subterranean chamber rivaling the scale of Sharn's district caverns �
 ---
 
 ## Level Breakdown
+
+### Level 0 — Q Level: "Teleport Caverns"
+
+Known only to the dragons. This is where teleportation to Argonessen occurs. It is the purview of Quandry Lyrriman d'Sivis and Harriet Lyrriman d'Sivis.
 
 ### Level 1 — Subbasement II: "The Silent Deep"
 
@@ -52,13 +62,14 @@ Features:
 
 ### Level 3 — Street Level: "The Veiled Bridge"
 
-The interface layer connecting the Paper House, House Sivis family compounds, and surface infrastructure. The actual start of Trust territory underground.
+This level is on the same altitude/plane as the main city streets of Korranberg. The main feature of this level is that there are hidden passages from the inside of the promentory into the city itself. The sides of the promentory appear to be seamless smooth rockface 100' tall. There are numerous passage ways available that are completely hidden from view which connect this level directly to the streets. 
 
 Features:
 
-- Administrative zone for public documentation, fake identities, and civilian case handling
-- Message routing hub
-- Wide stone causeways spanning parts of the cavern, giving a bridge-like urban layout
+- This is the actual floor/lobby that is ringed by the levels above.
+- The eastern wall is actually the river and contains secret docks for the Trust and the Navy.
+- It has several open type areas and looks like a very nice hotel lobby.
+- Cafeteria is here as well as several exclusive restaurants.
 
 ### Level 4 — Operations Level: "The Listening Spires"
 
