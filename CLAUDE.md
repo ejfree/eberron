@@ -13,6 +13,13 @@ GM prep repo for an **Eberron** campaign played with **Pathfinder 2e** rules.
 - **Foundry VTT dev environment:** `foundry/` is a local Foundry v14 + PF2e system instance (see `foundry/README.md`). Start with `foundry/dev.sh`, stop with `foundry/stop-dev.sh`. `foundry/app/` and `foundry/data/` are gitignored and hold the license key and LevelDB worlds — never read, print or commit them. Use `fvtt package unpack` to get campaign content into reviewable text.
 - Don't mix systems: legacy material in `docs/` may still be 5e; convert to PF2e when touched.
 
+## GM SECRET — Dragonmarked House Nobles (never reveal to players or in-world)
+- The nobles of every dragonmarked house are **true dragons in disguise**. The dragon variant per house is in `docs/reference/house-matrix.csv` (Variant ↔ Noble House, leader, mark, race disguise, land, specialty, guild).
+- **Mortals are NEVER part of the official noble houses.** Mortal heirs, branch members, guild staff and marked folk exist, but they are not the house's noble line. Don't write mortal nobles, mortal "family heads", or mortal bloodline claims into canon.
+- This is a secret from the players **and from the world itself**: no NPC (outside the dragons and any explicitly read-in conspirators) knows or suspects it. Players learn nothing unless the GM chooses to reveal it.
+- Writing rules: keep dragon identities only in GM-only material (mark such sections `*(GM only)*`); player handouts, pre-gens, NPC dialogue and public-facing descriptions must show only the disguise (race, name, mark). Never state the dragon type outside GM-only sections. When asked to draw from the matrix, treat it as secret data.
+- Existing notes (e.g. `docs/groups/house-sivis/overview.md`, which says "twelve noble families") may contradict this; flag conflicts rather than silently rewriting.
+
 ## Lore
 - Lookup order: `docs/` (canon for this campaign) → `source/` PDFs (Eberron books, Sharn, Zilargo, Grand History) → Eberron wiki (`docs/reference/eberron-wiki.md`, <https://eberron.fandom.com/wiki/>).
 - Source PDFs are mostly 3.5/5e; take lore, not mechanics.
@@ -20,7 +27,7 @@ GM prep repo for an **Eberron** campaign played with **Pathfinder 2e** rules.
 
 ## Layout
 - `docs/people/` NPCs; `docs/groups/`; `docs/locations/`; `docs/adventures/<name>/` overviews and scene planning
-- `docs/reference/` lookup pointers; `foundry/` local Foundry VTT dev instance; `assets/images`, `assets/maps`; `source/` reference PDFs; `scripts/`
+- `docs/reference/` lookup pointers and `house-matrix.csv` (GM secret); `foundry/` local Foundry VTT dev instance; `assets/images`, `assets/maps`; `source/` reference PDFs
 
 ## Conventions
 - Markdown, kebab-case filenames, relative links, images from `assets/images/` (`../../assets/images/x.png`).
