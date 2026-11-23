@@ -13,10 +13,11 @@ GM prep for an Eberron campaign using Pathfinder 2e rules, set **5 years after t
 | `source/` | Reference PDFs (Eberron, Sharn, Zilargo) |
 
 ## Rules reference (offline)
+The `pf2e-mcp` server (configured in `.mcp.json`) looks up PF2e Remaster rules from a local SQLite database. Build it once:
 ```sh
-scripts/fetch-pf2e-data.sh
+uvx --from pf2e-mcp python -m pf2e_mcp.ingestion.build
 ```
-Clones the PF2e compendium data from [foundryvtt/pf2e](https://github.com/foundryvtt/pf2e) into `reference/pf2e/` (gitignored). Online: [Archives of Nethys](https://2e.aonprd.com).
+Online fallback: [Archives of Nethys](https://2e.aonprd.com).
 
 ## Lore reference
 [Eberron Wiki](https://eberron.fandom.com/wiki/Eberron_Wiki) — see `docs/reference/eberron-wiki.md`.

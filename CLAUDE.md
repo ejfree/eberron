@@ -8,8 +8,9 @@ GM prep repo for an **Eberron** campaign played with **Pathfinder 2e** rules.
 
 ## Rules: Pathfinder 2e
 - All mechanics (stat blocks, DCs, levels, feats, spells, items) must be PF2e — three-action economy, proficiency ranks, level-based DCs.
-- **Offline rules lookup:** run `scripts/fetch-pf2e-data.sh` once; data lands in `reference/pf2e/packs/pf2e/` (gitignored JSON, e.g. `spells/`, `feats/`, `equipment/`, `pathfinder-monster-core/`). Grep there first; fall back to Archives of Nethys (<https://2e.aonprd.com>) only if missing. Never invent rules text.
-- **Foundry VTT dev environment:** `foundry/` is a local Foundry v14 + PF2e system instance (see `foundry/README.md`). Start with `foundry/dev.sh`, stop with `foundry/stop-dev.sh`. `foundry/app/` and `foundry/data/` are gitignored and hold the license key and LevelDB worlds — never read, print or commit them. Foundry's own PF2e compendia are LevelDB (not greppable), which is why the JSON copy in `reference/pf2e/` exists. Use `fvtt package unpack` to get campaign content into reviewable text.
+- **Rules MCP:** `.mcp.json` registers `pf2e-mcp` (PF2e Remastered, local SQLite DB at `~/Library/Application Support/pf2e-mcp/pf2e.sqlite`; rebuild with `uvx --from pf2e-mcp python -m pf2e_mcp.ingestion.build`). Prefer its `rules_*` / `build_*` tools for rules lookups.
+- **Fallback:** if the MCP lacks something, use Archives of Nethys (<https://2e.aonprd.com>). Never invent rules text.
+- **Foundry VTT dev environment:** `foundry/` is a local Foundry v14 + PF2e system instance (see `foundry/README.md`). Start with `foundry/dev.sh`, stop with `foundry/stop-dev.sh`. `foundry/app/` and `foundry/data/` are gitignored and hold the license key and LevelDB worlds — never read, print or commit them. Use `fvtt package unpack` to get campaign content into reviewable text.
 - Don't mix systems: legacy material in `docs/` may still be 5e; convert to PF2e when touched.
 
 ## Lore
