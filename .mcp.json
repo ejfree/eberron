@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pf2e-mcp": {
+      "command": "uvx",
+      "args": ["pf2e-mcp"]
+    }
+  }
+}
