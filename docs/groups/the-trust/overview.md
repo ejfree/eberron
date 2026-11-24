@@ -201,9 +201,9 @@ Departments:
 
 ### 9. Technical Division (Brains)
 
-#### Selbryn d'Sivis — "The Spark-Eyed"
+#### Quandry Lyrriman d'Sivis — "Q"
 
-Eyes replaced with magnifying lenses, obsessed with arcanotech and neuro-runes.
+An elderly, eccentric steampunk tinkerer in a jeweled green leather toolbelt, who lives his life in 94-minute blocks and loves to research and build. His assistant, Harriet Lycaris d'Sivis, runs the division day to day. (See [Quandry](../../people/quandry-lyrriman-d-sivis.md) and [Harriet](../../people/harriet-lycaris-d-sivis.md).)
 
 Departments:
 

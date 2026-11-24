@@ -1,5 +1,7 @@
 # Trust Headquarters Complex
 
+*Scale drawings and level details: [Headquarters Layout](headquarters-layout.md).*
+
 The operational and administrative heart of the Trust is built in two parts: a vast underground cavern beneath the Korranberg Citadel, as well as all the visible building of the the citadel itself that gives the whole complex a plausible public face. Together they house every division of the Trust, elite training facilities, archives, and rapid-extraction infrastructure.
 
 ---
@@ -22,10 +24,10 @@ Height: 100 ft (established in existing text)
 
 ## The Cavern Below
 
-A massive subterranean chamber rivaling the scale of Sharn's district caverns — over 300 feet tall at its peak, expansive enough to contain airship bays, docks, and multiple facility levels stacked vertically along its walls.
+A massive subterranean chamber rivaling the scale of Sharn's district caverns — over 100 feet tall at its peak, expansive enough to contain airship bays, docks, and multiple facility levels stacked vertically along its walls.
 
 - **Eastern opening:** Leads to a hidden waterway and compact airship mooring zone; used for rapid insertion and extraction, secret travel, and cargo operations
-- **Perimeter levels:** The north, west, and south sides of the cavern are ringed by five ascending levels, each set back and designed like industrial balconies, government complexes, and intelligence quarters stacked vertically
+- **Perimeter levels:** The north, west, and south sides of the cavern are ringed by four ascending balcony levels (Levels 4–7), each set back from the one below and wide enough to hold full departments, government offices, workshops, and quarters. The middle is left open: Levels 4–7 look straight down into the Level 3 lobby, and the Paper House (Level 8) sits above on the plaza.
 - **Vertical movement:** Multiple shafts and lifts allow secure movement between levels
 - **Lighting:** Radiant crystals grown to resemble stalactites create a permanent twilight effect throughout the cavern
 - **Air circulation:** Magically enchanted ventilation, subtly powered by the eastern airship tunnel, keeps air fresh throughout
@@ -35,9 +37,17 @@ A massive subterranean chamber rivaling the scale of Sharn's district caverns �
 
 ## Level Breakdown
 
-### Level 0 — Q Level: "Teleport Caverns"
+*Sublevels 0, 1 and 2 are divided internally into floors 10 feet tall (floor 0B is 20 feet tall), labeled from the top down: 2a, 2b, and so on (see [Headquarters Layout](headquarters-layout.md)).*
 
-Known only to the dragons. This is where teleportation to Argonessen occurs. It is the purview of Quandry Lyrriman d'Sivis and Harriet Lyrriman d'Sivis.
+### Level 0 — Q Level
+
+Known only to the dragons. Floors 0A and 0B are the Q levels, the home of Quandry Lyrriman d'Sivis and Harriet Lycaris d'Sivis, who are always in gnome form. Floor 0C is a huge cavern reserved for dragons only, where teleportation to Argonessen occurs.
+
+- **Floor 0A:** The Q levels' living and working space for Quandry and Harriet.
+- **Floor 0B:** A secret rail spur and depot holding the five war trains built by the gnomes. The floor is 20 feet tall to fit the trains. It is not an official stop, and there is no rail staff.
+- **Floor 0C:** A huge cavern, 100 feet deeper than the rest of the level. Dragons only.
+
+**The rail spur:** The lightning rail enters from the west. As it leaves the main Korranberg station it passes through the city walls and disappears into the ground. Multiple gates, each sealed by multiple wards, close off the passages on the way down. The gates and wards are unlisted.
 
 ### Level 1 — Subbasement II: "The Silent Deep"
 
@@ -71,23 +81,24 @@ Features:
 - It has several open type areas and looks like a very nice hotel lobby.
 - Cafeteria is here as well as several exclusive restaurants.
 
-### Level 4 — Operations Level: "The Listening Spires"
+### Level 4 — Operations & Support Directorate
 
-Signal intelligence (SIGINT), communications monitoring, and illusion-encoded courier dispatch.
-
-Features:
-
-- Stacked tower-nodes and crystal lattice arrays running like antennae up to the cavern ceiling and down to the subbasements
-- Entirely staffed by mid-tier operatives specializing in magical linguistics, Honesty dialects, and divinatory surveillance
-
-### Level 5 — Command Level: "The House of Shadows"
-
-Division headquarters for all ten Trust branches. The most heavily warded level besides Subbasement II.
+Division headquarters for half of the Trust: the five support and operations divisions, Ears (Surveillance), Guts (Analysis), Heart (Logistics), Brains (Technical), and Ops (Operations). Communications monitoring, illusion-encoded courier dispatch, and signal intelligence run from here, mostly under Ears.
 
 Features:
 
-- One semi-circular ring with ten equidistant blackstone towers, each inscribed with a Truth Rune — each housing one division
-- The Table of Tiers at the center: a circular chamber where the Trusted Ten meet
+- A wide balcony ring on the north, west, and south sides, open in the middle down to the Level 3 lobby
+- Staffed largely by mid-tier operatives specializing in magical linguistics, Honest dialects, and divinatory surveillance
+- Lifts and shafts connect directly to the lobby below and the levels above
+
+### Level 5 — Intelligence Directorate
+
+Division headquarters for the other half of the Trust: the five intelligence divisions, CI (Counter-Intelligence), XI (External Intelligence), I² (Internal Intelligence), MI (Military Intelligence), and Corp (Corporate Intelligence). The most heavily warded level besides Subbasement II.
+
+Features:
+
+- A wide balcony ring on the north, west, and south sides, open in the middle down to the Level 3 lobby
+- Each division holds its own wing of the ring
 
 ### Level 6 — Logistics & Craft Level: "The Invisible Forge"
 
