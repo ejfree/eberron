@@ -3,7 +3,7 @@
 GM prep repo for an **Eberron** campaign played with **Pathfinder 2e** rules.
 
 ## Setting
-- Eberron, Khorvaire. **Year: 5 years after the end of the Last War** (Treaty of Thronehold; 998 YK → ~1003 YK). Don't use later-timeline events or pre-treaty politics as current.
+- Eberron, Khorvaire. **Year: 5 years after the end of the Last War** (Treaty of Thronehold; 996 YK → current year ~1001 YK). Don't use later-timeline events or pre-treaty politics as current.
 - Current focus: Zilargo and Korranberg (House Sivis, the Trust, the Library of Korranberg).
 
 ## Rules: Pathfinder 2e
@@ -20,6 +20,12 @@ GM prep repo for an **Eberron** campaign played with **Pathfinder 2e** rules.
 - Writing rules: keep dragon identities only in GM-only material (mark such sections `*(GM only)*`); player handouts, pre-gens, NPC dialogue and public-facing descriptions must show only the disguise (race, name, mark). Never state the dragon type outside GM-only sections. When asked to draw from the matrix, treat it as secret data.
 - Existing notes (e.g. `docs/groups/house-sivis/overview.md`, which says "twelve noble families") may contradict this; flag conflicts rather than silently rewriting.
 
+## CRITICAL CONTEXT — The Trust
+- `docs/groups/the-trust/overview.md` is **required reading before writing or editing anything about Korranberg, Zilargo, House Sivis, the Notary Guild or Sivis-stop**. The Trust underlies all of it.
+- Core facts: ~1/3 of Zilargo's population informs for the Trust; it reads all Notary Guild / Sivis-stop traffic (Guild operators don't know); the Protector is always the head of House Sivis; the Trusted Ten division heads are d'Sivis nobles; `docs/groups/the-trust/headquarters.md` has the base.
+- The overview is tiered (Restricted → Secret → Top Secret → Above Table). Respect the tiers: the dragon-nobles secret is Above Table and is **not** known even to most Trust members. Don't write anything that contradicts it, and never surface higher-tier facts in player-facing text.
+- When creating Zilargo/Korranberg locations, NPCs or adventures, consider where the Trust is present and link to the overview in Related Docs.
+
 ## Lore
 - Lookup order: `docs/` (canon for this campaign) → `source/` PDFs (Eberron books, Sharn, Zilargo, Grand History) → Eberron wiki (`docs/reference/eberron-wiki.md`, <https://eberron.fandom.com/wiki/>).
 - Source PDFs are mostly 3.5/5e; take lore, not mechanics.
@@ -32,3 +38,4 @@ GM prep repo for an **Eberron** campaign played with **Pathfinder 2e** rules.
 ## Conventions
 - Markdown, kebab-case filenames, relative links, images from `assets/images/` (`../../assets/images/x.png`).
 - Ask before overwriting canon; mark invented lore as such.
+- **"Doyen" is NEVER a title** — only "Doyenne" for Lysse Lyrriman d'Sivis. Heads of Library colleges use **Head**, **Rector** (Tabernacle) or **Provost** (Morridan).

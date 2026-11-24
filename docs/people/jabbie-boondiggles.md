@@ -69,6 +69,10 @@ He appears, at first glance, to be a simpleton. He speaks slowly, asks simple qu
 
 Jabbie is a Vortex Dragon. His gnomish form is a permanent disguise maintained with complete ease. The blue tattoos are the only visible trace of his true nature — they are his scale patterning bleeding through the illusion in certain light conditions. He is aware of this and unconcerned. His patience, his stillness, and his indifference to urgency are not personality quirks. They are the disposition of something very old operating on a much longer timeline than the people around him.
 
+#### The Watch
+
+Jabbie is **not** a member of the Trust. He is, however, under constant protective surveillance by it. This is why he works for Glitter: her posting keeps him close to Trust assets who can watch over him without his noticing. **He must never know.** Only those who need to know are told why, and no Trust member may act in a way that reveals it. If Jabbie ever learns, treat it as a serious breach with consequences up the chain.
+
 #### The Knowledge
 
 Jabbie's true name, his wyer allegiance, and his reasons for being stationed in this specific building are known only to the Doyenne and senior members of House Sivis. He does not discuss any of this. He offers food instead. What he is specifically watching for, reporting on, or waiting for has not been communicated to anyone currently in the building.

@@ -70,7 +70,9 @@ She is, with genuine embarrassment, terrible with names. She will try to learn t
 
 #### The Trust
 
-Glitter is a Level 2 operative in the Trust. Shipping & Receiving is an ideal intelligence posting: she controls what moves through the building and maintains the ability to hold, inspect, or redirect any physical asset entering the college. She handles special acquisitions, materials of interest, and objects that need to arrive without appearing in official inventory. Umpeen is her direct superior in the Trust hierarchy.
+Glitter is a Level 2 Trust Spy, one level below Umpeen. Shipping & Receiving is an ideal intelligence posting: she controls what moves through the building and maintains the ability to hold, inspect, or redirect any physical asset entering the college. She handles special acquisitions, materials of interest, and objects that need to arrive without appearing in official inventory. Umpeen is her direct superior in the Trust hierarchy.
+
+Her posting also serves a second purpose: Glitter's department is the Trust's protective watch over Jabbie Boondiggles, who works as her assistant and is not a Trust member. He must never know. (See [Jabbie Boondiggles](jabbie-boondiggles.md).)
 
 #### The Arm
 
