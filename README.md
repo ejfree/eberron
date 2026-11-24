@@ -23,4 +23,4 @@ Online fallback: [Archives of Nethys](https://2e.aonprd.com).
 [Eberron Wiki](https://eberron.fandom.com/wiki/Eberron_Wiki) — see `docs/reference/eberron-wiki.md`.
 
 ## Status
-Legacy content may still be D&D 5e and needs conversion to PF2e. Pathfinder content is used under the ORC license; Eberron is property of Wizards of the Coast — personal use only.
+All content is Pathfinder 2e. Pathfinder content is used under the ORC license; Eberron is property of Wizards of the Coast — personal use only.

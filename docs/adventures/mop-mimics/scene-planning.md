@@ -1,15 +1,25 @@
+---
+title: "Mop Mimics — Scene Planning"
+type: adventure/scene-planning
+adventure: "Mop Mimics"
+system: pf2e
+tags: ["adventure", "mop-mimics", "pf2e", "scene-planning"]
+related: ["overview.md", "scene-prompts.md"]
+updated: 2026-11-23
+---
 # Mop Mimics — Scene Planning
 
-**System:** D&D 5e (SRD 5.1, CC-BY 4.0 — no WotC purchase required)
+**System:** Pathfinder 2e (Remaster). Written for a party of 4 characters at level 3; adjust encounters and DCs for your party (see the DC table at the end).
 **Setting:** College of Drystone, Korranberg, Zilargo
 **Tone:** Gnome bureaucracy comedy with genuine stakes. Think office farce that turns into a real investigation.
 **Runtime target:** 3–4 hours
+**Naming:** **Supply** is the external name for Shipping & Receiving. **IT** is Innovation & Transformation. Players hear "Supply" in dialogue; "Shipping & Receiving" is the internal name.
 
 ---
 
 ## Above the Table — Full Story
 
-The party has stumbled into a Trust operation without knowing it. Every institution they touch in this adventure — Supply, Administration, Facilities — is staffed by Trust operatives at varying levels. Glitter and Umpeen are both Trust. Margery quietly does enchantment work for the Trust. Even Jabbie, seemingly just an odd little cook, is something far stranger.
+The party has stumbled into a Trust operation without knowing it. Every institution they touch in this adventure — Supply, Administration, Facilities — is staffed by Trust operatives at varying levels. Glitter and Umpeen are both Trust. Margery quietly does enchantment work for the Trust. Jabbie, seemingly just an odd little cook, is not Trust, but the Trust keeps him under constant protective surveillance (he must never know) — which is why he works for Glitter. He is also something far stranger.
 
 **The actual chain of events:**
 Wobbles Cobblepot, a purchasing clerk in the basement, was financially ruined by the AngryCat 30/30 winery collapse. Desperate, he was approached by a **third party** (see: The Loose Thread, below) and paid to smuggle a crate of mimics into the college through Purchasing. He contracted Margery Yardley — a legitimate mimic enchanter who does Trust work on the side — to provide the mimics in "mop" form. Margery delivered them. Wobbles filed them under "Janitorial Supplies, Miscellaneous." The mimics, being mimics, eventually woke up in the closet.
@@ -43,7 +53,7 @@ If the party asks why not Facilities:
 If the party asks who they are / why them:
 > "You were available. Go."
 
-**5e note:** No roll needed here. This is pure scene-setting. Give each player a moment to introduce their character to the others if they haven't. Encourage them to describe what they look like.
+**PF2e note:** No roll needed here. This is pure scene-setting. Give each player a moment to introduce their character to the others if they haven't. Encourage them to describe what they look like.
 
 ---
 
@@ -56,35 +66,30 @@ If the party asks who they are / why them:
 
 ### The Fight — Mop Mimics
 
-Four Small mimics have awakened and taken the form of mops. Use the stat block below — a scaled-down version of the SRD Mimic appropriate for a first encounter.
+Four young mimics have awakened and taken the form of mops. There is no official stat block for a mimic this small, so this is a **homebrew** scaled-down mimic built for a level 3 party. It is a Moderate encounter for four level 3 characters (4 × level 1 creatures at 20 XP each = 80 XP). Check the numbers against the Creature Building rules before play, and tune the count to your party size.
 
-**Mop Mimic** *(Small Monstrosity, Shapechanger)*
+**Mop Mimic** *(Creature 1 · Aberration · Small · homebrew)*
+
+Str +2, Dex +1, Con +2, Int −4, Wis +1, Cha −1
 
 | | |
 | --- | --- |
-| **AC** | 12 (natural armor) |
-| **HP** | 9 (2d6 + 2) |
-| **Speed** | 10 ft. |
-| **STR** | 10 (+0) |
-| **DEX** | 12 (+1) |
-| **CON** | 12 (+1) |
-| **INT** | 5 (−3) |
-| **WIS** | 11 (+0) |
-| **CHA** | 8 (−1) |
-| **Skills** | Stealth +5 |
-| **Immunities** | Acid damage; Prone condition |
-| **CR** | 1/4 (50 XP each) |
+| **Perception** | +5; darkvision |
+| **Skills** | Stealth +7 |
+| **AC** | 16 |
+| **Saves** | Fort +7, Ref +5, Will +3 |
+| **HP** | 20 |
+| **Speed** | 15 feet |
 
-**False Appearance:** While motionless in object form, indistinguishable from an ordinary mop.
+**Mimic Object** *(concentrate)* [1 action] The mimic takes the shape of a mop. This changes its appearance, not its size. A creature must succeed at a DC 20 Perception check to notice it is a creature.
 
-**Adhesive:** The mimic adheres to anything that touches it. A creature adhered to the mimic is **Grappled** (escape DC 10). Checks made to escape this grapple have disadvantage.
+**Object Lesson** [reaction] *Trigger* A creature touches the mimic while it is disguised as an object. *Effect* The mimic makes a pseudopod Strike against the triggering creature. If initiative hasn't been rolled, the mimic then rolls initiative.
 
-**Actions:**
+**Melee** [1 action] **Pseudopod** +8 (agile, reach 10 feet), *Damage* 1d6+2 bludgeoning plus Adhesive
 
-- **Pseudopod.** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1d4 bludgeoning damage. If in object form, the target must succeed on a DC 10 Strength saving throw or become Grappled (see Adhesive).
-- **Bite.** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one Grappled target. *Hit:* 1d4 + 1 piercing damage.
+**Adhesive** A creature hit by the pseudopod must succeed at a DC 17 Reflex save or become grabbed. Escaping the grab uses DC 17.
 
-**Tactics:** Two mimics immediately try to Grapple the nearest characters with their Pseudopod. Two attack freely. The tight closet is **Difficult Terrain** — movement costs double. Any character reduced to 0 HP in the closet should be narrated as knocked into the shelving rather than dying; this is a comedy adventure.
+**Tactics:** Two mimics immediately use Object Lesson on the nearest characters. Two attack freely. The tight closet is **difficult terrain**, so movement costs double. Use the *Pathfinder* rules for the Grabbed condition. Any character reduced to 0 HP in the closet is narrated as knocked into the shelving rather than dying (GM fiat; this is a comedy adventure).
 
 **The destruction:** The closet does not survive this encounter intact. Shelves collapse. Bottles break. Someone is going to end this fight smelling like ammonia. This matters for the next scene.
 
@@ -103,7 +108,7 @@ If the party explains mimics:
 
 He gives them a handwritten note to present to Administration. The note is addressed to no one, signed only with an initial, and says: *"Re: Closet incident, 4th floor. Please advise on replacement protocol. — R."*
 
-**5e note:** A DC 12 Wisdom (Perception) check — or a passive Perception of 12 or higher — lets a player notice a half-empty bottle in Roondar's locked cabinet labeled *AngryCat 30/30 — Reserve Vintage.* He gets visibly annoyed if anyone points it out.
+**PF2e note:** A DC 18 Perception check (or a character whose Perception DC is 18 or higher, used as a passive check) lets a player notice a bottle in Roondar's locked cabinet labeled *AngryCat 30/30 — Reserve Vintage.* He gets visibly annoyed if anyone points it out.
 
 ---
 
@@ -155,7 +160,7 @@ He will offer food regardless of the answer. The food is exceptional. Jabbie use
 
 **Above the Table:** Jabbie is a Vortex Dragon. This session he is purely a warm, curious, slightly eccentric NPC. He knows more than he lets on about Supply's actual function. He will not intervene in anything tonight. The Doyenne is aware of all of it.
 
-**5e note:** A DC 12 Wisdom (Perception) check — or passive Perception 12+ — while talking to Jabbie reveals that his tattoos shift slightly in the light, almost as if they're moving under the skin. He notices them noticing, smiles pleasantly, and offers more food.
+**PF2e note:** A DC 18 Perception check (or Perception DC 18+ as a passive check) while talking to Jabbie reveals that his tattoos shift slightly in the light, almost as if they're moving under the skin. He notices them noticing, smiles pleasantly, and offers more food.
 
 ---
 
@@ -174,7 +179,7 @@ Her actual concern is the inventory chain:
 
 She wants the party to find out how mimics ended up in the college's janitorial supply. She has a theory — something in Purchasing is off — but she needs external people to do the looking. Her own staff are too visible.
 
-**5e note:** A DC 10 Charisma (Persuasion) check gets her to share what she already suspects. DC 15 gets her to name Wobbles Cobblepot specifically. She does not respond well to Intimidation — she's seen worse than the party.
+**PF2e note:** A DC 16 Diplomacy check gets her to share what she already suspects. DC 20 gets her to name Wobbles Cobblepot specifically. She does not respond well to Intimidation — she's seen worse than the party.
 
 > "There's a gnome in Purchasing. Wobbles Cobblepot. He's been sloppy with intake paperwork for about two months. Late submissions, strange line items. I can't touch it directly — that's above my lane. You can."
 
@@ -184,15 +189,15 @@ She gives them temporary floor credentials. They can access Purchasing, which is
 
 ## Scene 4 — Wobbles Cobblepot (Purchasing)
 
-**Wobbles** (see [people/wobbles.md](../../people/wobbles.md)) should look and act like a gnome who is deeply, exhaustedly afraid. He is doing paperwork with the focus of someone trying to disappear into it.
+**Wobbles** (see [people/wobbles-cobblepot.md](../../people/wobbles-cobblepot.md)) should look and act like a gnome who is deeply, exhaustedly afraid. He is doing paperwork with the focus of someone trying to disappear into it.
 
 **Physical description:** Middle-aged gnome, rumpled jacket that used to fit better, ink-stained fingers, a small framed picture of a vineyard on his desk turned slightly away from himself.
 
 Getting information from Wobbles is a social encounter, not a combat one. He is not malicious — he is ruined, scared, and in over his head. He will fold under any combination of:
 
-- DC 12 Charisma (Intimidation) — he is already scared, this isn't hard
-- DC 10 Charisma (Persuasion) with evidence of the mimics — he genuinely feels bad
-- DC 12 Wisdom (Perception) or passive Perception 12+ — spots the AngryCat 30/30 label on something in his desk, which opens a different conversation
+- DC 16 Intimidation — he is already scared, this isn't hard
+- DC 16 Diplomacy with evidence of the mimics — he genuinely feels bad
+- DC 18 Perception (or Perception DC 18+ as a passive check) — spots the AngryCat 30/30 label on something in his desk, which opens a different conversation
 
 **What Wobbles confesses:**
 
@@ -203,7 +208,7 @@ Getting information from Wobbles is a social encounter, not a combat one. He is 
 
 He asks if he's going to lose his job. The party cannot answer this honestly.
 
-**The note:** Wobbles still has the original contact note in the lining of his jacket. He has not decided whether to mention it. A DC 15 Wisdom (Perception) check while he's talking spots him unconsciously touching his jacket. If asked directly about proof, he produces it without further pressure. The note is unsigned but has an IT department acquisition code printed in the header — standard internal procurement formatting. A DC 12 Intelligence (History) or Intelligence (Arcana) check identifies the code as a 10th floor Innovation & Transformation requisition number.
+**The note:** Wobbles still has the original contact note in the lining of his jacket. He has not decided whether to mention it. A DC 20 Perception check while he's talking spots him unconsciously touching his jacket. If asked directly about proof, he produces it without further pressure. The note is unsigned but has an IT department acquisition code printed in the header — standard internal procurement formatting. A DC 18 Society or Arcana check (Recall Knowledge) identifies the code as a 10th floor Innovation & Transformation requisition number.
 
 At that point, Wobbles goes very quiet and says: *"I think you should probably stop asking about this."*
 
@@ -218,43 +223,37 @@ At that point, Wobbles goes very quiet and says: *"I think you should probably s
 **Boxed text:**
 > The building is unremarkable from the street. A narrow three-story structure, older stonework, no signage. The curtains on the second floor move slightly, then stop. When you knock, a voice from behind the door says: "I'm not receiving visitors."
 
-The party can try a DC 12 Charisma (Persuasion) check to get her to talk through the door. She will not be convinced to open it by words alone.
+The party can try a DC 18 Diplomacy check to get her to talk through the door. She will not be convinced to open it by words alone.
 
 If they try to force entry: a Mimic is waiting inside the front room.
 
 ### The Fight — Armoire Mimic
 
-Margery's workshop guardian has taken the form of a large armoire. Use the standard SRD Mimic stat block — this is a proper, dangerous fight.
+Margery's workshop guardian has taken the form of an armoire. Use the official **Mimic** (Monster Core 2, Creature 4) as-is. Against four level 3 characters it is a level +1 creature (60 XP), a Low threat on its own; the cluttered workshop and its reaction make it a proper fight.
 
-**Armoire Mimic** *(Large Monstrosity, Shapechanger)*
+**Armoire Mimic** *(Creature 4 · Aberration · Medium · Monster Core 2)*
+
+Str +4, Dex +1, Con +3, Int +0, Wis +1, Cha +0
 
 | | |
 | --- | --- |
-| **AC** | 12 (natural armor) |
-| **HP** | 58 (9d10 + 9) |
-| **Speed** | 15 ft. |
-| **STR** | 17 (+3) |
-| **DEX** | 12 (+1) |
-| **CON** | 13 (+1) |
-| **INT** | 5 (−3) |
-| **WIS** | 13 (+1) |
-| **CHA** | 8 (−1) |
-| **Skills** | Stealth +5 |
-| **Immunities** | Acid damage; Prone condition |
-| **CR** | 2 (450 XP) |
+| **Perception** | +9; darkvision |
+| **Skills** | Dwelling Lore (applies only to the dungeon they live in) |
+| **AC** | 20 |
+| **Saves** | Fort +11, Ref +9, Will +9 |
+| **HP** | 75 |
+| **Speed** | 25 feet |
 
-**False Appearance:** While motionless in object form, indistinguishable from an ordinary armoire.
+**Mimic Object** *(concentrate, polymorph)* [1 action] The mimic assumes the shape of any Medium object, here an armoire. It gets an automatic result of 28 on Deception checks and DCs to pass as that object.
 
-**Adhesive:** The mimic adheres to anything that touches it. A creature adhered to the mimic is **Grappled** (escape DC 13). Checks made to escape this grapple have disadvantage.
+**Object Lesson** [reaction] *Trigger* A creature touches or physically interacts with the mimic while it is transformed using Mimic Object. *Effect* The mimic makes a jaws Strike against the triggering creature. If initiative hasn't been rolled, the mimic then rolls initiative. It can't be used again until the mimic escapes and takes a new disguise.
 
-**Grappler:** The mimic has advantage on attack rolls against any creature Grappled by it.
+**Melee** [1 action] **Jaws** +14, *Damage* 2d8+4 piercing
+**Melee** [1 action] **Pseudopod** +14 (agile, reach 10 feet), *Damage* 1d8+4 bludgeoning
 
-**Actions:**
+**Improved Grab**, **Mobile Morph** [1 action], and **Swallow Whole** [1 action] (Medium, 2d8 acid, Rupture 13): see the Mimic entry in Monster Core 2 for full text.
 
-- **Pseudopod.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage. If in object form, the target must succeed on a DC 13 Strength saving throw or become Grappled (see Adhesive).
-- **Bite.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Grappled target. *Hit:* 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
-
-The room has environmental features: shelving with enchanting components, a worktable with active materials, narrow passages between stacked equipment. The mimic uses the clutter to limit movement — treat the workspace as Difficult Terrain except along the central aisle.
+The room has environmental features: shelving with enchanting components, a worktable with active materials, narrow passages between stacked equipment. The mimic uses the clutter to limit movement — treat the workspace as difficult terrain except along the central aisle.
 
 **Margery interrupts before the mimic is reduced to 0 HP** — or immediately upon its incapacitation if the fight runs long.
 
@@ -321,20 +320,24 @@ She forgets their names again immediately after saying this.
 
 ---
 
-## 5e Quick Reference — DCs Used in This Adventure
+## PF2e Quick Reference — DCs Used in This Adventure
+
+DCs assume a level 3 party. Standard level 3 DC is 18; easy is 16 (−2) and hard is 20 (+2). Adjust to your party's level using the DC-by-level table. Where a passive check is noted, use the character's Perception DC (10 + modifier).
 
 | Check | Skill | DC | Notes |
 | --- | --- | --- | --- |
-| Notice AngryCat bottle in Roondar's office | Perception (Wis) | 12 | Or passive Perception 12+ |
-| Notice Jabbie's tattoos moving | Perception (Wis) | 12 | Or passive Perception 12+ |
-| Get Glitter to share suspicions | Persuasion (Cha) | 10 | — |
-| Get Glitter to name Wobbles | Persuasion (Cha) | 15 | — |
-| Intimidate Wobbles into talking | Intimidation (Cha) | 12 | He's already scared |
-| Persuade Wobbles with mimic evidence | Persuasion (Cha) | 10 | He feels genuinely bad |
-| Spot AngryCat label on Wobbles's desk | Perception (Wis) | 12 | Opens alternative angle |
-| Spot Wobbles touching his jacket | Perception (Wis) | 15 | Reveals the note exists |
-| Identify IT acquisition code | History or Arcana (Int) | 12 | Confirms 10th floor origin |
-| Persuade Margery through the door | Persuasion (Cha) | 12 | Will not open it regardless |
+| Notice AngryCat bottle in Roondar's office | Perception | 18 | Or Perception DC 18+ |
+| Notice Jabbie's tattoos moving | Perception | 18 | Or Perception DC 18+ |
+| Get Glitter to share suspicions | Diplomacy | 16 | — |
+| Get Glitter to name Wobbles | Diplomacy | 20 | — |
+| Intimidate Wobbles into talking | Intimidation | 16 | He's already scared |
+| Persuade Wobbles with mimic evidence | Diplomacy | 16 | He feels genuinely bad |
+| Spot AngryCat label on Wobbles's desk | Perception | 18 | Opens alternative angle |
+| Spot Wobbles touching his jacket | Perception | 20 | Reveals the note exists |
+| Identify IT acquisition code | Society or Arcana | 18 | Recall Knowledge; confirms 10th floor origin |
+| Persuade Margery through the door | Diplomacy | 18 | Will not open it regardless |
+| Notice a mop mimic (Mimic Object) | Perception | 20 | Homebrew mop mimics |
+
 
 ---
 

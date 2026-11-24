@@ -1,3 +1,11 @@
+---
+title: "Mop Mimics — Foundry VTT Scene Prompts"
+type: adventure/art-prompts
+adventure: "Mop Mimics"
+tags: ["adventure", "mop-mimics", "foundry-vtt", "midjourney", "scene-art"]
+related: ["overview.md", "scene-planning.md"]
+updated: 2026-11-23
+---
 # Mop Mimics — Foundry VTT Scene Prompts
 
 Midjourney prompts for each scene background. All generated at `--ar 16:9` for Foundry VTT.
@@ -106,7 +114,7 @@ vast underground cavern repurposed as a logistics warehouse in a gnome college, 
 **Notes:** The glass-windowed box suspended above the warehouse floor. Looking down through the glass should give a sense of the warehouse scale below. The office itself is precise and organized — Glitter's personal space is controlled.
 
 ```
-small elevated glass-windowed office suspended above a large underground warehouse, cage-style brass lift elevator at the entrance, glass walls on three sides looking down at warehouse shelving rows below, a precise organized desk with a closed ledger and neat stacks of papers, one comfortable chair behind the desk and two plain chairs opposite, the warehouse floor visible through the glass floor far below, warm amber desk lamp contrasting with the cold industrial light of the warehouse, compact but commanding view, art deco fantasy office, Eberron D&D, slight overhead perspective angle, empty of characters, painterly digital illustration --ar 16:9 --v 6
+small elevated glass-windowed office suspended above a large underground warehouse, cage-style brass lift elevator at the entrance, glass walls on three sides looking down at warehouse shelving rows below, a precise organized desk with a closed ledger and neat stacks of papers, one comfortable chair behind the desk and two plain chairs opposite, the warehouse floor visible through the glass walls far below, warm amber desk lamp contrasting with the cold industrial light of the warehouse, compact but commanding view, art deco fantasy office, Eberron D&D, slight overhead perspective angle, empty of characters, painterly digital illustration --ar 16:9 --v 6
 ```
 
 ---
@@ -184,6 +192,6 @@ same gnome professor's cluttered office as before but with signs of recent agita
 | Glitter's Office | 8×8 squares | 40×40 ft | Elevated glass box |
 | Purchasing / Wobbles | 6×6 squares | 30×30 ft | Cramped, filing cabinets as cover |
 | Margery Exterior | 20×10 squares | Street scene | Party approaches from south |
-| Margery Workshop | 15×15 squares | 75×75 ft | Difficult terrain, armoire centerpiece |
+| Margery Workshop | 15×15 squares | 75×75 ft | Difficult terrain except the central aisle; armoire centerpiece |
 
 **Consistent style across scenes:** Run Scene 2C (The Warehouse) through the Style Tuner first — it's the most complex space and getting it right will set the tone for all other locations.

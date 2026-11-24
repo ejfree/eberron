@@ -39,7 +39,7 @@ There is no elevator access from the central lift. All visitors must descend the
 - One wall of **six glass windows**, behind which additional gnomes work. Each window displays a wooden "Now Serving" sign followed by an alphanumeric code (e.g., *G73*, *BD22*). Five windows are labeled **Burser**. One is labeled **Expenses**.
 - Rows of **uncomfortable seats** for waiting
 
-Departments housed here: HR, Purchasing, Shipping & Receiving, Facilities.
+Departments housed here: HR, Purchasing, Shipping & Receiving, Facilities. *(Shipping & Receiving is known externally as "Supply".)*
 
 #### Lower Floors — Public Access
 
