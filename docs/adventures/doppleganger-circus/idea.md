@@ -22,7 +22,7 @@ my version of cult of the dragon below.
 
 ## Above the Table *(GM only)*
 
-Kyrzin, Daelkey Prince of Slime loves oozes. I’d see a Kyrzin doppelganger as being an ooze that has the ability to assume humanoid forms. While it would generally use the doppelganger stat block, its slam attack would reflect it transforming its fist into a heavy pseudopod. I’d give the Kyrzin doppelganger a form of the Amorphous trait possessed by many oozes; it has to squeeze, but when it squeezes it can flow through any opening up to one inch wide. This ability wouldn’t extend to equipment, but I’d be willing to let a Kyrzin doppelganger to mimic basic clothing with its shapeshifting.
+Kyrzin, Daelkey Prince of Slime loves oozes. I’d see a Kyrzin doppelganger as being an ooze that has the ability to assume humanoid forms. While it would generally use the doppelganger stat block, its slam attac would reflect it transforming its fist into a heavy pseudopod. I’d give the Kyrzin doppelganger a form of the Amorphous trait possessed by many oozes; it has to squeeze, but when it squeezes it can flow through any opening up to one inch wide. This ability wouldn’t extend to equipment, but I’d be willing to let a Kyrzin doppelganger to mimic basic clothing with its shapeshifting.
 
 @[Margery Yardley](person:ed8b87a4-1570-4d80-a1c6-b302cb6a9626) is somehow tied into this if ever deeply investigated. She is planting mimics to spy on the library.
 
