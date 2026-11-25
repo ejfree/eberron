@@ -4,7 +4,7 @@ type: adventure # one-shot | arc | campaign-session
 system: pf2e
 party: "4 characters, level 1"
 duration: "" # e.g., 3-4 hours
-location: [] # e.g., ["College of Drystone", "Korranberg"]
+location: ["Zilargo"] # e.g., ["College of Drystone", "Korranberg"]
 tags: ["adventure", "pf2e", "city:", "faction:", "theme:"]
 related: []
 updated: 2026-11-24
