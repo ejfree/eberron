@@ -11,7 +11,7 @@ GM prep repo for an **Eberron** campaign played with **Pathfinder 2e** rules.
 - **Rules MCP:** `.mcp.json` registers `pf2e-mcp` (PF2e Remastered, local SQLite DB at `~/Library/Application Support/pf2e-mcp/pf2e.sqlite`; rebuild with `uvx --from pf2e-mcp python -m pf2e_mcp.ingestion.build`). Prefer its `rules_*` / `build_*` tools for rules lookups.
 - **Fallback:** if the MCP lacks something, use Archives of Nethys (<https://2e.aonprd.com>). Never invent rules text.
 - **Foundry VTT dev environment:** `foundry/` is a local Foundry v14 + PF2e system instance (see `foundry/README.md`). Start with `foundry/dev.sh`, stop with `foundry/stop-dev.sh`. `foundry/app/` and `foundry/data/` are gitignored and hold the license key and LevelDB worlds — never read, print or commit them. Use `fvtt package unpack` to get campaign content into reviewable text.
-- Don't mix systems: everything in `docs/` is PF2e (Mop Mimics was converted from 5e). If you find leftover 5e material, convert it. Standard level DCs; party baseline for Mop Mimics is four level 3 characters.
+- Don't mix systems: everything in `docs/` is PF2e (Mop Mimics was converted from 5e). If you find leftover 5e material, convert it. Standard level DCs; party baselines: Mop Mimics and Round Trip are four level 1 characters; Sivis Stop is level 2.
 
 ## GM SECRET — Dragonmarked House Nobles (never reveal to players or in-world)
 - The nobles of every dragonmarked house are **true dragons in disguise**. The dragon variant per house is in `docs/reference/house-matrix.csv` (Variant ↔ Noble House, leader, mark, race disguise, land, specialty, guild).

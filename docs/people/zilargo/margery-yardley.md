@@ -94,5 +94,5 @@ She has a criminal record she does not explain. There is a childhood friend she 
 ### Related Docs
 
 - [The Trust](../../groups/the-trust/overview.md)
-- [Scene Planning](../../adventures/mop-mimics/scene-planning.md)
+- [Scene Planning](../../adventures/1a-mop-mimics/scene-planning.md)
 - [Wobbles Cobblepot](wobbles-cobblepot.md)

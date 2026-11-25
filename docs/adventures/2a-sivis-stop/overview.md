@@ -1,9 +1,27 @@
 Sivis Stop
 
+Party: four characters, level 2
+
 New Sivis House concept for faster messages & communications across Eberron. We are moving these services out of the traditional guild hall and into more retail friendly locations. Standard messaging services available. And we are also experimenting with an automat style of service. Beverages, packaged foods, etc. Look for one on your nearest corner.
 ￼
 Overview:
 In general this leads to a small dungeon to explore underneath the city of Korranberg. There are some undead to fight, and the party will find a neat sword.
+
+
+
+1. Starts with the discovery of a burial site of a functionary of an ancient Dahkaani emperor.
+2. This was the “ sword-bearer” for the Emperor. Not a lot is known about those times except that this was like a “hand” of the emperor and often ruled in his stead. 
+3. Most importantly, this sword-bearer served THREE consecutive emperors. 
+Emperor Jorg-Jorg	-7321	-7300
+Emperor Flog-Flog	-7300	-7290
+Emperor Xarg-Xarg	-7290	??
+4. First trio ever.
+5. Sword was a katana with a slight enchantment, but appears to be his “walking around sword”. But still is about 7000+ years old. So a relic
+6. 
+7. 
+
+
+
 
 Above the table:
 Above the table, this is a combination of a coffee shop that also has 2 way messaging readily available. The services below are an idea, but there should be better options. The underlying purpose of the Sivis Stop is to gather more money for the house as well as ALL the information sent as part of the communication

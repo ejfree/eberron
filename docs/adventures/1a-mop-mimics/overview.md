@@ -2,7 +2,7 @@
 title: "Mop Mimics"
 type: adventure/one-shot
 system: pf2e
-party: "4 characters, level 3"
+party: "4 characters, level 1"
 duration: "3-4 hours"
 location: ["College of Drystone", "Korranberg"]
 tags: ["adventure", "one-shot", "pf2e", "korranberg", "zilargo", "college-of-drystone", "trust", "mimics", "comedy", "investigation"]
@@ -14,7 +14,7 @@ updated: 2026-11-23
 **Setting:** [College of Drystone](../../locations/zilargo/college-of-drystone.md), [Korranberg](../../locations/zilargo/korranberg.md), Zilargo
 **Tone:** Gnome bureaucracy comedy with genuine stakes — office farce that turns into a real investigation.
 **Duration:** 3–4 hours (one session)
-**System:** Pathfinder 2e (Remaster), written for four level 3 characters. DCs and encounters are in [Scene Planning](scene-planning.md).
+**System:** Pathfinder 2e (Remaster), written for four level 1 characters. DCs and encounters are in [Scene Planning](scene-planning.md).
 
 ## Overview
 

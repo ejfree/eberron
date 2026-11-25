@@ -9,7 +9,7 @@ updated: 2026-11-23
 ---
 # Mop Mimics — Scene Planning
 
-**System:** Pathfinder 2e (Remaster). Written for a party of 4 characters at level 3; adjust encounters and DCs for your party (see the DC table at the end).
+**System:** Pathfinder 2e (Remaster). Written for a party of 4 characters at level 1; adjust encounters and DCs for your party (see the DC table at the end).
 **Setting:** College of Drystone, Korranberg, Zilargo
 **Tone:** Gnome bureaucracy comedy with genuine stakes. Think office farce that turns into a real investigation.
 **Runtime target:** 3–4 hours
@@ -66,28 +66,28 @@ If the party asks who they are / why them:
 
 ### The Fight — Mop Mimics
 
-Four young mimics have awakened and taken the form of mops. There is no official stat block for a mimic this small, so this is a **homebrew** scaled-down mimic built for a level 3 party. It is a Moderate encounter for four level 3 characters (4 × level 1 creatures at 20 XP each = 80 XP). Check the numbers against the Creature Building rules before play, and tune the count to your party size.
+Four young mimics have awakened and taken the form of mops. There is no official stat block for a mimic this small, so this is a **homebrew** mimic built for a level 1 party: a level 1 homebrew mimic with the official **weak adjustment** applied (−2 to AC, attack, DCs, saves, Perception and skills; −2 damage; −10 HP; level −2), making it Creature −1. Four of them is a **Severe** encounter for four level 1 characters (4 × 30 XP = 120 XP). Use three (90 XP) for a gentler fight. Check the numbers against the Creature Building rules before play.
 
-**Mop Mimic** *(Creature 1 · Aberration · Small · homebrew)*
+**Mop Mimic** *(Creature −1 · Aberration · Small · homebrew, weak adjustment applied)*
 
 Str +2, Dex +1, Con +2, Int −4, Wis +1, Cha −1
 
 | | |
 | --- | --- |
-| **Perception** | +5; darkvision |
-| **Skills** | Stealth +7 |
-| **AC** | 16 |
-| **Saves** | Fort +7, Ref +5, Will +3 |
-| **HP** | 20 |
+| **Perception** | +3; darkvision |
+| **Skills** | Stealth +5 |
+| **AC** | 14 |
+| **Saves** | Fort +5, Ref +3, Will +1 |
+| **HP** | 10 |
 | **Speed** | 15 feet |
 
-**Mimic Object** *(concentrate)* [1 action] The mimic takes the shape of a mop. This changes its appearance, not its size. A creature must succeed at a DC 20 Perception check to notice it is a creature.
+**Mimic Object** *(concentrate)* [1 action] The mimic takes the shape of a mop. This changes its appearance, not its size. A creature must succeed at a DC 18 Perception check to notice it is a creature.
 
 **Object Lesson** [reaction] *Trigger* A creature touches the mimic while it is disguised as an object. *Effect* The mimic makes a pseudopod Strike against the triggering creature. If initiative hasn't been rolled, the mimic then rolls initiative.
 
-**Melee** [1 action] **Pseudopod** +8 (agile, reach 10 feet), *Damage* 1d6+2 bludgeoning plus Adhesive
+**Melee** [1 action] **Pseudopod** +6 (agile, reach 10 feet), *Damage* 1d6 bludgeoning plus Adhesive
 
-**Adhesive** A creature hit by the pseudopod must succeed at a DC 17 Reflex save or become grabbed. Escaping the grab uses DC 17.
+**Adhesive** A creature hit by the pseudopod must succeed at a DC 15 Reflex save or become grabbed. Escaping the grab uses DC 15.
 
 **Tactics:** Two mimics immediately use Object Lesson on the nearest characters. Two attack freely. The tight closet is **difficult terrain**, so movement costs double. Use the *Pathfinder* rules for the Grabbed condition. Any character reduced to 0 HP in the closet is narrated as knocked into the shelving rather than dying (GM fiat; this is a comedy adventure).
 
@@ -108,7 +108,7 @@ If the party explains mimics:
 
 He gives them a handwritten note to present to Administration. The note is addressed to no one, signed only with an initial, and says: *"Re: Closet incident, 4th floor. Please advise on replacement protocol. — R."*
 
-**PF2e note:** A DC 18 Perception check (or a character whose Perception DC is 18 or higher, used as a passive check) lets a player notice a bottle in Roondar's locked cabinet labeled *AngryCat 30/30 — Reserve Vintage.* He gets visibly annoyed if anyone points it out.
+**PF2e note:** A DC 15 Perception check (or a character whose Perception DC is 15 or higher, used as a passive check) lets a player notice a bottle in Roondar's locked cabinet labeled *AngryCat 30/30 — Reserve Vintage.* He gets visibly annoyed if anyone points it out.
 
 ---
 
@@ -160,7 +160,7 @@ He will offer food regardless of the answer. The food is exceptional. Jabbie use
 
 **Above the Table:** Jabbie is a Vortex Dragon. This session he is purely a warm, curious, slightly eccentric NPC. He knows more than he lets on about Supply's actual function. He will not intervene in anything tonight. The Doyenne is aware of all of it.
 
-**PF2e note:** A DC 18 Perception check (or Perception DC 18+ as a passive check) while talking to Jabbie reveals that his tattoos shift slightly in the light, almost as if they're moving under the skin. He notices them noticing, smiles pleasantly, and offers more food.
+**PF2e note:** A DC 15 Perception check (or Perception DC 15+ as a passive check) while talking to Jabbie reveals that his tattoos shift slightly in the light, almost as if they're moving under the skin. He notices them noticing, smiles pleasantly, and offers more food.
 
 ---
 
@@ -179,7 +179,7 @@ Her actual concern is the inventory chain:
 
 She wants the party to find out how mimics ended up in the college's janitorial supply. She has a theory — something in Purchasing is off — but she needs external people to do the looking. Her own staff are too visible.
 
-**PF2e note:** A DC 16 Diplomacy check gets her to share what she already suspects. DC 20 gets her to name Wobbles Cobblepot specifically. She does not respond well to Intimidation — she's seen worse than the party.
+**PF2e note:** A DC 13 Diplomacy check gets her to share what she already suspects. DC 17 gets her to name Wobbles Cobblepot specifically. She does not respond well to Intimidation — she's seen worse than the party.
 
 > "There's a gnome in Purchasing. Wobbles Cobblepot. He's been sloppy with intake paperwork for about two months. Late submissions, strange line items. I can't touch it directly — that's above my lane. You can."
 
@@ -195,9 +195,9 @@ She gives them temporary floor credentials. They can access Purchasing, which is
 
 Getting information from Wobbles is a social encounter, not a combat one. He is not malicious — he is ruined, scared, and in over his head. He will fold under any combination of:
 
-- DC 16 Intimidation — he is already scared, this isn't hard
-- DC 16 Diplomacy with evidence of the mimics — he genuinely feels bad
-- DC 18 Perception (or Perception DC 18+ as a passive check) — spots the AngryCat 30/30 label on something in his desk, which opens a different conversation
+- DC 13 Intimidation — he is already scared, this isn't hard
+- DC 13 Diplomacy with evidence of the mimics — he genuinely feels bad
+- DC 15 Perception (or Perception DC 15+ as a passive check) — spots the AngryCat 30/30 label on something in his desk, which opens a different conversation
 
 **What Wobbles confesses:**
 
@@ -208,7 +208,7 @@ Getting information from Wobbles is a social encounter, not a combat one. He is 
 
 He asks if he's going to lose his job. The party cannot answer this honestly.
 
-**The note:** Wobbles still has the original contact note in the lining of his jacket. He has not decided whether to mention it. A DC 20 Perception check while he's talking spots him unconsciously touching his jacket. If asked directly about proof, he produces it without further pressure. The note is unsigned but has an IT department acquisition code printed in the header — standard internal procurement formatting. A DC 18 Society or Arcana check (Recall Knowledge) identifies the code as a 10th floor Innovation & Transformation requisition number.
+**The note:** Wobbles still has the original contact note in the lining of his jacket. He has not decided whether to mention it. A DC 17 Perception check while he's talking spots him unconsciously touching his jacket. If asked directly about proof, he produces it without further pressure. The note is unsigned but has an IT department acquisition code printed in the header — standard internal procurement formatting. A DC 15 Society or Arcana check (Recall Knowledge) identifies the code as a 10th floor Innovation & Transformation requisition number.
 
 At that point, Wobbles goes very quiet and says: *"I think you should probably stop asking about this."*
 
@@ -223,35 +223,35 @@ At that point, Wobbles goes very quiet and says: *"I think you should probably s
 **Boxed text:**
 > The building is unremarkable from the street. A narrow three-story structure, older stonework, no signage. The curtains on the second floor move slightly, then stop. When you knock, a voice from behind the door says: "I'm not receiving visitors."
 
-The party can try a DC 18 Diplomacy check to get her to talk through the door. She will not be convinced to open it by words alone.
+The party can try a DC 15 Diplomacy check to get her to talk through the door. She will not be convinced to open it by words alone.
 
 If they try to force entry: a Mimic is waiting inside the front room.
 
 ### The Fight — Armoire Mimic
 
-Margery's workshop guardian has taken the form of an armoire. Use the official **Mimic** (Monster Core 2, Creature 4) as-is. Against four level 3 characters it is a level +1 creature (60 XP), a Low threat on its own; the cluttered workshop and its reaction make it a proper fight.
+Margery's workshop guardian has taken the form of an armoire. Use the official **Mimic** (Monster Core 2, Creature 4) with the **weak adjustment** applied (−2 to AC, attack, DCs, saves, Perception and skills; −2 damage; −15 HP; level −1), making it Creature 3. Against four level 1 characters it is a level +2 creature (80 XP), a **Moderate** fight, and the cluttered workshop and its reaction keep it dangerous. At full strength (Creature 4, +3 over a level 1 party) it would be Severe (120 XP).
 
-**Armoire Mimic** *(Creature 4 · Aberration · Medium · Monster Core 2)*
+**Armoire Mimic** *(Creature 3 · Aberration · Medium · Monster Core 2 Mimic, weak adjustment applied)*
 
 Str +4, Dex +1, Con +3, Int +0, Wis +1, Cha +0
 
 | | |
 | --- | --- |
-| **Perception** | +9; darkvision |
+| **Perception** | +7; darkvision |
 | **Skills** | Dwelling Lore (applies only to the dungeon they live in) |
-| **AC** | 20 |
-| **Saves** | Fort +11, Ref +9, Will +9 |
-| **HP** | 75 |
+| **AC** | 18 |
+| **Saves** | Fort +9, Ref +7, Will +7 |
+| **HP** | 60 |
 | **Speed** | 25 feet |
 
-**Mimic Object** *(concentrate, polymorph)* [1 action] The mimic assumes the shape of any Medium object, here an armoire. It gets an automatic result of 28 on Deception checks and DCs to pass as that object.
+**Mimic Object** *(concentrate, polymorph)* [1 action] The mimic assumes the shape of any Medium object, here an armoire. It gets an automatic result of 26 on Deception checks and DCs to pass as that object.
 
 **Object Lesson** [reaction] *Trigger* A creature touches or physically interacts with the mimic while it is transformed using Mimic Object. *Effect* The mimic makes a jaws Strike against the triggering creature. If initiative hasn't been rolled, the mimic then rolls initiative. It can't be used again until the mimic escapes and takes a new disguise.
 
-**Melee** [1 action] **Jaws** +14, *Damage* 2d8+4 piercing
-**Melee** [1 action] **Pseudopod** +14 (agile, reach 10 feet), *Damage* 1d8+4 bludgeoning
+**Melee** [1 action] **Jaws** +12, *Damage* 2d8+2 piercing
+**Melee** [1 action] **Pseudopod** +12 (agile, reach 10 feet), *Damage* 1d8+2 bludgeoning
 
-**Improved Grab**, **Mobile Morph** [1 action], and **Swallow Whole** [1 action] (Medium, 2d8 acid, Rupture 13): see the Mimic entry in Monster Core 2 for full text.
+**Improved Grab**, **Mobile Morph** [1 action], and **Swallow Whole** [1 action] (Medium, acid, Rupture 11 after the weak adjustment): see the Mimic entry in Monster Core 2 for full text, and apply the −2 to its DCs and damage.
 
 The room has environmental features: shelving with enchanting components, a worktable with active materials, narrow passages between stacked equipment. The mimic uses the clutter to limit movement — treat the workspace as difficult terrain except along the central aisle.
 
@@ -322,21 +322,21 @@ She forgets their names again immediately after saying this.
 
 ## PF2e Quick Reference — DCs Used in This Adventure
 
-DCs assume a level 3 party. Standard level 3 DC is 18; easy is 16 (−2) and hard is 20 (+2). Adjust to your party's level using the DC-by-level table. Where a passive check is noted, use the character's Perception DC (10 + modifier).
+DCs assume a level 1 party. Standard level 1 DC is 15; easy is 13 (−2) and hard is 17 (+2). Adjust to your party's level using the DC-by-level table. Where a passive check is noted, use the character's Perception DC (10 + modifier).
 
 | Check | Skill | DC | Notes |
 | --- | --- | --- | --- |
-| Notice AngryCat bottle in Roondar's office | Perception | 18 | Or Perception DC 18+ |
-| Notice Jabbie's tattoos moving | Perception | 18 | Or Perception DC 18+ |
-| Get Glitter to share suspicions | Diplomacy | 16 | — |
-| Get Glitter to name Wobbles | Diplomacy | 20 | — |
-| Intimidate Wobbles into talking | Intimidation | 16 | He's already scared |
-| Persuade Wobbles with mimic evidence | Diplomacy | 16 | He feels genuinely bad |
-| Spot AngryCat label on Wobbles's desk | Perception | 18 | Opens alternative angle |
-| Spot Wobbles touching his jacket | Perception | 20 | Reveals the note exists |
-| Identify IT acquisition code | Society or Arcana | 18 | Recall Knowledge; confirms 10th floor origin |
-| Persuade Margery through the door | Diplomacy | 18 | Will not open it regardless |
-| Notice a mop mimic (Mimic Object) | Perception | 20 | Homebrew mop mimics |
+| Notice AngryCat bottle in Roondar's office | Perception | 15 | Or Perception DC 15+ |
+| Notice Jabbie's tattoos moving | Perception | 15 | Or Perception DC 15+ |
+| Get Glitter to share suspicions | Diplomacy | 13 | — |
+| Get Glitter to name Wobbles | Diplomacy | 17 | — |
+| Intimidate Wobbles into talking | Intimidation | 13 | He's already scared |
+| Persuade Wobbles with mimic evidence | Diplomacy | 13 | He feels genuinely bad |
+| Spot AngryCat label on Wobbles's desk | Perception | 15 | Opens alternative angle |
+| Spot Wobbles touching his jacket | Perception | 17 | Reveals the note exists |
+| Identify IT acquisition code | Society or Arcana | 15 | Recall Knowledge; confirms 10th floor origin |
+| Persuade Margery through the door | Diplomacy | 15 | Will not open it regardless |
+| Notice a mop mimic (Mimic Object) | Perception | 18 | Homebrew mop mimics |
 
 
 ---
