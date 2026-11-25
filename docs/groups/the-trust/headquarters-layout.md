@@ -227,7 +227,7 @@ The most restricted level. Vaults of blackmail, soul contracts and ancestral pac
 
 #### Level 0 — Q Level (−180 to −300 ft, floors 0a–0c) *(GM only — Above Table)*
 
-Known only to the dragons. Floors 0a and 0b are the Q levels, the home of [Quandry Lyrriman d'Sivis](../../people/quandry-lyrriman-d-sivis.md) and [Harriet Lycaris d'Sivis](../../people/harriet-lycaris-d-sivis.md), always in gnome form. Floor 0c is a huge cavern, reserved for dragons only.
+Known only to the dragons. Floors 0a and 0b are the Q levels, the home of [Quandry Lyrriman d'Sivis](../../people/zilargo/quandry-lyrriman-d-sivis.md) and [Harriet Lycaris d'Sivis](../../people/zilargo/harriet-lycaris-d-sivis.md), always in gnome form. Floor 0c is a huge cavern, reserved for dragons only.
 
 - **0a:** Quandry and Harriet's home and workshops.
 - **0b:** A secret rail spur and depot holding the five war trains built by the gnomes. The floor is 20 ft tall, double the usual 10 ft, to fit the trains. It is not an official stop and has no rail staff.
@@ -249,4 +249,4 @@ Known only to the dragons. Floors 0a and 0b are the Q levels, the home of [Quand
 
 - [Trust Headquarters Complex](headquarters.md)
 - [The Trust](overview.md)
-- [Korranberg](../../locations/korranberg.md)
+- [Korranberg](../../locations/zilargo/korranberg.md)

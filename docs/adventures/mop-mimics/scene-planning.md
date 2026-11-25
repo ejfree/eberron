@@ -189,7 +189,7 @@ She gives them temporary floor credentials. They can access Purchasing, which is
 
 ## Scene 4 — Wobbles Cobblepot (Purchasing)
 
-**Wobbles** (see [people/wobbles-cobblepot.md](../../people/wobbles-cobblepot.md)) should look and act like a gnome who is deeply, exhaustedly afraid. He is doing paperwork with the focus of someone trying to disappear into it.
+**Wobbles** (see [people/wobbles-cobblepot.md](../../people/zilargo/wobbles-cobblepot.md)) should look and act like a gnome who is deeply, exhaustedly afraid. He is doing paperwork with the focus of someone trying to disappear into it.
 
 **Physical description:** Middle-aged gnome, rumpled jacket that used to fit better, ink-stained fingers, a small framed picture of a vineyard on his desk turned slightly away from himself.
 

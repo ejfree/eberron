@@ -33,8 +33,8 @@ GM prep repo for an **Eberron** campaign played with **Pathfinder 2e** rules.
 - **Department names (College of Drystone):** "Supply" is the external name for Shipping & Receiving (internal name). "IT" is Innovation & Transformation; never "Innovation & Technology".
 
 ## Layout
-- `docs/people/` NPCs; `docs/groups/`; `docs/locations/`; `docs/adventures/<name>/` overviews and scene planning
-- `docs/reference/` lookup pointers and `house-matrix.csv` (GM secret); `foundry/` local Foundry VTT dev instance; `assets/images`, `assets/maps`; `source/` reference PDFs
+- `docs/people/<region>/` NPCs and `docs/locations/<nation or region>/` places (e.g. `zilargo/`, `sharn/`, `karrnath/`), grouped by region; `docs/groups/<name>/`; `docs/adventures/<name>/` overviews and scene planning
+- `docs/reference/` lookup pointers, travel times, moons, and `house-matrix.csv` (GM secret); `foundry/` local Foundry VTT dev instance; `assets/images`, `assets/maps`; `source/` reference PDFs
 
 ## Conventions
 - **Templates (`templates/`):** use `npc_template.md` for people, `location_place_template.md` / `location_shop_template.md` for locations, `room-template.md` for rooms. New adventures go in `docs/adventures/<name>/` using `adventure_overview_template.md` → `overview.md`, `adventure_scene_planning_template.md` → `scene-planning.md`, and `adventure_scene_prompts_template.md` → `scene-prompts.md`. Replace `${name}`; keep GM-only content labeled.

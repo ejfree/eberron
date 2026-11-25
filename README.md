@@ -5,7 +5,7 @@ GM prep for an Eberron campaign using Pathfinder 2e rules, set **5 years after t
 ## Contents
 | Path | What |
 | --- | --- |
-| `docs/people/`, `docs/groups/`, `docs/locations/` | NPCs, organizations, places |
+| `docs/people/<region>/`, `docs/groups/`, `docs/locations/<region>/` | NPCs, organizations, places, grouped by region |
 | `docs/adventures/` | Adventure overviews and scene plans (Mop Mimics, Sivis Stop) |
 | `docs/reference/` | Lore and rules lookup pointers |
 | `foundry/` | Local Foundry VTT v14 + PF2e dev instance (see `foundry/README.md`) |

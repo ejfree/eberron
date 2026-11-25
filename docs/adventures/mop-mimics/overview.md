@@ -11,7 +11,7 @@ updated: 2026-11-23
 ---
 # Mop Mimics
 
-**Setting:** [College of Drystone](../../locations/college-of-drystone.md), [Korranberg](../../locations/korranberg.md), Zilargo
+**Setting:** [College of Drystone](../../locations/zilargo/college-of-drystone.md), [Korranberg](../../locations/zilargo/korranberg.md), Zilargo
 **Tone:** Gnome bureaucracy comedy with genuine stakes — office farce that turns into a real investigation.
 **Duration:** 3–4 hours (one session)
 **System:** Pathfinder 2e (Remaster), written for four level 3 characters. DCs and encounters are in [Scene Planning](scene-planning.md).
@@ -70,16 +70,16 @@ Full scene text, boxed text, stat blocks, DCs, and pacing are in [Scene Planning
 
 ## Key NPCs
 
-- [Roondar Timbers](../../people/roondar-timbers.md): quest giver
-- [Umpeen Bafflestone](../../people/umpeen-bafflestone.md): the Bureau
-- [Jabbie Boondiggles](../../people/jabbie-boondiggles.md): Shipping & Receiving
-- [Glitter](../../people/glitter-binderly-bimpnottin.md): Shipping & Receiving supervisor
-- [Wobbles Cobblepot](../../people/wobbles-cobblepot.md): Purchasing
-- [Margery Yardley](../../people/margery-yardley.md): enchanter
+- [Roondar Timbers](../../people/zilargo/roondar-timbers.md): quest giver
+- [Umpeen Bafflestone](../../people/zilargo/umpeen-bafflestone.md): the Bureau
+- [Jabbie Boondiggles](../../people/zilargo/jabbie-boondiggles.md): Shipping & Receiving
+- [Glitter](../../people/zilargo/glitter-binderly-bimpnottin.md): Shipping & Receiving supervisor
+- [Wobbles Cobblepot](../../people/zilargo/wobbles-cobblepot.md): Purchasing
+- [Margery Yardley](../../people/zilargo/margery-yardley.md): enchanter
 
 ## Related Docs
 
 - [Scene Planning](scene-planning.md)
 - [Scene Prompts](scene-prompts.md): Midjourney prompts and Foundry scene settings for each location
-- [College of Drystone](../../locations/college-of-drystone.md)
+- [College of Drystone](../../locations/zilargo/college-of-drystone.md)
 - [Zilargo PD](../../groups/zilargo-pd.md)
