@@ -10,7 +10,7 @@ updated: 2026-11-24
 ---
 ### Finners
 
-The Finner's family has been in @[Hazelhorn](settlement:56c4b337-821d-4d30-8156-9968ef517152) for years. As you enter, the bell rings and Abner or Abigail look up. They sell
+The Finner's family has been in [Hazelhorn](hazlehorn.md) for years. As you enter, the bell rings and Abner or Abigail look up. They sell
 
 ### Location Details
 

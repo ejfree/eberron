@@ -44,7 +44,7 @@ Quiet, fastidious, and impossible to bluff. Speaks only when he has checked the 
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Morridan](../../locations/zilargo/college-of-morridan.md)
+- Frequent locations: [Morridan](../../locations/zilargo/korranberg/college-of-morridan.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Quiet, fastidious, and impossible to bluff. Speaks only when he has checked the 
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Morridan](../../locations/zilargo/college-of-morridan.md)
+- Affiliations/Factions: [Morridan](../../locations/zilargo/korranberg/college-of-morridan.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ Level 3 Trust Operative, Analysis Division (Guts, Crackstone). He carries a wisp
 
 ### Related Docs
 
-- [Morridan](../../locations/zilargo/college-of-morridan.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Morridan](../../locations/zilargo/korranberg/college-of-morridan.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)

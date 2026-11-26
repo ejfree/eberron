@@ -38,7 +38,7 @@ Seminar rooms and a debate cloister, run jointly with [Aureon's Holt](college-of
 
 #### 3rd Floor — Office of Prophecy Studies
 
-Public face of the Library's collaboration on **Tasker's Dream**, an academic program to decode draconic prophecy (see [Lysse Lyrriman d'Sivis](../../people/zilargo/lysse-lyrriman-d-sivis.md)). Cataloguers, linguists, and Draconic translators work in shifts. Visitors are shown a tidy exhibit and a reading room.
+Public face of the Library's collaboration on **Tasker's Dream**, an academic program to decode draconic prophecy (see [Lysse Lyrriman d'Sivis](../../../people/zilargo/lysse-lyrriman-d-sivis.md)). Cataloguers, linguists, and Draconic translators work in shifts. Visitors are shown a tidy exhibit and a reading room.
 
 #### Restricted — The Archive of Contested Texts
 
@@ -54,9 +54,9 @@ Below ground. Access requires the Rector's seal. Holds heretical, suppressed, an
 
 | Name | Role | Location |
 | --- | --- | --- |
-| [Rector Ilsabet Quorrin](../../people/zilargo/ilsabet-quorrin.md) | Rector of the Tabernacle | 3rd Floor office |
-| [Magister Odelle Pemberwick](../../people/zilargo/odelle-pemberwick.md) | Lead, Office of Prophecy Studies | 3rd Floor |
-| [Keeper Dunstan Vael](../../people/zilargo/dunstan-vael.md) | Archivist, Contested Texts | Restricted Archive |
+| [Rector Ilsabet Quorrin](../../../people/zilargo/ilsabet-quorrin.md) | Rector of the Tabernacle | 3rd Floor office |
+| [Magister Odelle Pemberwick](../../../people/zilargo/odelle-pemberwick.md) | Lead, Office of Prophecy Studies | 3rd Floor |
+| [Keeper Dunstan Vael](../../../people/zilargo/dunstan-vael.md) | Archivist, Contested Texts | Restricted Archive |
 
 ### Magic, Wards, and Infrastructure
 
@@ -89,6 +89,6 @@ Below ground. Access requires the Rector's seal. Holds heretical, suppressed, an
 ### Related Docs
 
 - [Library of Korranberg](library-of-korranberg.md)
-- [Korranberg](korranberg.md)
+- [Korranberg](../korranberg.md)
 - [College of Drystone](college-of-drystone.md)
-- [The Trust](../../groups/the-trust/overview.md)
+- [The Trust](../../../groups/the-trust/overview.md)

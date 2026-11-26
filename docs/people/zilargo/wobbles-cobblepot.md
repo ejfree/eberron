@@ -93,5 +93,5 @@ The original contact note is in the lining of his jacket. He has not decided whe
 
 ### Related Docs
 
-- [College Of Drystone](../../locations/zilargo/college-of-drystone.md)
+- [College Of Drystone](../../locations/zilargo/korranberg/college-of-drystone.md)
 - [Margery Yardley](margery-yardley.md)

@@ -96,7 +96,7 @@ The name Glitter was given to her by a target who thought he was being cruel. Sh
 
 ### Related Docs
 
-- [College Of Drystone](../../locations/zilargo/college-of-drystone.md)
+- [College Of Drystone](../../locations/zilargo/korranberg/college-of-drystone.md)
 - [The Trust](../../groups/the-trust/overview.md)
 - [Umpeen Bafflestone](umpeen-bafflestone.md)
 - [Jabbie Boondiggles](jabbie-boondiggles.md)

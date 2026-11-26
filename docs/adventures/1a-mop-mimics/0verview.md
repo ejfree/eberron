@@ -11,20 +11,20 @@ updated: 2026-11-23
 ---
 # Mop Mimics
 
-**Setting:** [College of Drystone](../../locations/zilargo/college-of-drystone.md), [Korranberg](../../locations/zilargo/korranberg.md), Zilargo
+**Setting:** [College of Drystone](../../locations/zilargo/korranberg/college-of-drystone.md), [Korranberg](../../locations/zilargo/korranberg.md), Zilargo
 **Tone:** Gnome bureaucracy comedy with genuine stakes — office farce that turns into a real investigation.
 **Duration:** 3–4 hours (one session)
 **System:** Pathfinder 2e (Remaster), written for four level 1 characters. DCs and encounters are in [Scene Planning](scene-planning.md).
 
 ## Overview
 
-A researcher at the College of Drystone files a complaint: on the 4th floor, outside the bathrooms, she was "whipped by a thousand lashed demon." She was attacked by a mop. Roondar Timbers, head of Schematics & Prototypes, wants the party to find out what is in the janitorial closet, remove it, and keep it quiet, especially from Facilities.
+A researcher at the College of Drystone files a complaint: on the 4th floor, outside the bathrooms, she was "whipped by a thousand lashed demon." She was attacked by a mop. Roondar Timbers, head of Schematics & Prototypes, wants the party to find out what is in the janitorial closet, remove it, and keep it quiet.
 
-The party fights four mop mimics, wrecks the closet, and gets sent down to the basement to sort out the paperwork. That trail runs through Administration, Shipping & Receiving, and Purchasing to a ruined clerk, and from him to an enchanter's workshop in the city, where a second, much larger mimic is waiting. The party leaves with a confession, a requisition code from the 10th floor, possibly a ZPD citation, and an offer of unofficial work.
+The party fights four mop mimics, wrecks the closet, and gets sent down to the basement to sort out the paperwork with Supply. The idea of interfacing with Supply scares Roondar to death. (because he knows they as well as IT are the Trust.) That trail runs through Administration, Shipping & Receiving, and Purchasing to a ruined clerk, and from him to an enchanter's workshop in the city, where a second, much larger mimic is waiting. The party leaves with information, requisition paperwork from the 10th floor, possibly a ZPD citation, and an offer of unofficial work.
 
 ## Above the Table *(GM only)*
 
-The party has stumbled into a Trust operation without knowing it. Everything they touch (Supply, Administration, and Facilities) is staffed by Trust operatives at varying levels. Glitter and Umpeen are Trust. Margery quietly does enchantment work for the Trust. Jabbie is not a member, but the Trust keeps him under constant protective surveillance, and he must never know. (His true nature is in his people file.)
+The party has stumbled into a Trust operation without knowing it. Everything they touch (Supply,Facilities, and IT) is staffed by Trust operatives at varying levels. Glitter and Umpeen are Trust. Margery quietly does enchantment work for the Trust. Jabbie is not a member, but the Trust keeps him under constant protective surveillance, and he must never know. (His true nature is in his people file.)
 
 **What actually happened:** Innovation & Transformation (IT, 10th floor) placed an unofficial procurement order with Margery for a larger shipment of enchanted mimics, purpose unspecified. The mop-form subset was routed through Wobbles Cobblepot in Purchasing as routine janitorial intake. Wobbles, ruined by the AngryCat 30/30 winery collapse, took money from an intermediary to file the crate without inspection. Someone in the receiving chain stored the crate for six weeks in a warm closet next to solvent fumes, and the binding degraded.
 
@@ -81,5 +81,5 @@ Full scene text, boxed text, stat blocks, DCs, and pacing are in [Scene Planning
 
 - [Scene Planning](scene-planning.md)
 - [Scene Prompts](scene-prompts.md): Midjourney prompts and Foundry scene settings for each location
-- [College of Drystone](../../locations/zilargo/college-of-drystone.md)
+- [College of Drystone](../../locations/zilargo/korranberg/college-of-drystone.md)
 - [Zilargo PD](../../groups/zilargo-pd.md)

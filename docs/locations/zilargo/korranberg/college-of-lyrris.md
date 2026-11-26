@@ -58,9 +58,9 @@ Faculty-only reading room with a well-stocked library and no recording of who co
 
 | Name | Role | Location |
 | --- | --- | --- |
-| [Head Fiorella Tinwhistle](../../people/zilargo/fiorella-tinwhistle.md) | Head of Lyrris | Salon |
-| [Master Bellamy Orsk](../../people/zilargo/bellamy-orsk.md) | Head, Conservatory | Conservatory |
-| [Editor Pria Vandermoot](../../people/zilargo/pria-vandermoot.md) | Liaison, Press & Correspondents | Press Office |
+| [Head Fiorella Tinwhistle](../../../people/zilargo/fiorella-tinwhistle.md) | Head of Lyrris | Salon |
+| [Master Bellamy Orsk](../../../people/zilargo/bellamy-orsk.md) | Head, Conservatory | Conservatory |
+| [Editor Pria Vandermoot](../../../people/zilargo/pria-vandermoot.md) | Liaison, Press & Correspondents | Press Office |
 
 ### Magic, Wards, and Infrastructure
 
@@ -93,6 +93,6 @@ Faculty-only reading room with a well-stocked library and no recording of who co
 ### Related Docs
 
 - [Library of Korranberg](library-of-korranberg.md)
-- [Korranberg](korranberg.md)
+- [Korranberg](../korranberg.md)
 - [College of Drystone](college-of-drystone.md)
-- [The Trust](../../groups/the-trust/overview.md)
+- [The Trust](../../../groups/the-trust/overview.md)

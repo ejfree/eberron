@@ -72,18 +72,18 @@ Zilargo is situated in the south of Khorvaire, bordered in the north and west by
 
 #### Notable Settlements
 
-- **Dragonroost** — Mountain gateway; site of the famous "surrender" to Galifar
-- **Korranberg** — Cultural, academic, and intelligence capital; terminus of the eastern lightning rail
-- **Trolanport** — Government seat; center of shipbuilding and cartography
-- **Zolanberg** — Jewel mining hub; lightning rail stop
-- Liugwen, Oskilor, Quesk, Reven, Tarandro, Tariston, Thurimbar, Tzanthus
+- **[Dragonroost](dragonroost.md)** — Mountain gateway; site of the famous "surrender" to Galifar
+- **[Korranberg](korranberg.md)** — Cultural, academic, and intelligence capital; terminus of the eastern lightning rail
+- **[Trolanport](trolanport.md)** — Government seat; center of shipbuilding and cartography
+- **[Zolanberg](zolanberg.md)** — Jewel mining hub; lightning rail stop
+- [Liugwen](liugwen.md), [Oskilor](oskilor.md), [Quesk](quesk.md), [Reven](reven.md), [Tarandro](tarandro.md), [Tariston](tariston.md), [Thurimbar](thurimbar.md), [Tzanthus](tzanthus.md)
 
 #### Notable Features
 
-- **The Howling Peaks** — Northwestern mountain range; natural border with Breland
-- **Paluur Draal** — Ruined Dhakaani fortress; of historical and archaeological interest
-- **Seawall Mountains** — Eastern mountain range; natural border with Darguun
-- **Straits of Shargon** — Southern sea passage; key to Trolanport's maritime trade
+- **[The Howling Peaks](howling-peaks.md)** — Northwestern mountain range; natural border with Breland
+- **[Paluur Draal](paluur-draal.md)** — Ruined Dhakaani fortress; of historical and archaeological interest
+- **[Seawall Mountains](seawall-mountains.md)** — Eastern mountain range; natural border with Darguun
+- **[Straits of Shargon](straits-of-shargon.md)** — Southern sea passage; key to Trolanport's maritime trade
 
 ### Operations
 
@@ -138,7 +138,7 @@ The Trust reports directly to the Triumvirate and maintains a coordinator in eac
 ### Related Docs
 
 - [Korranberg](korranberg.md)
-- [Library of Korranberg](library-of-korranberg.md)
+- [Library of Korranberg](korranberg/library-of-korranberg.md)
 - [Zilargo PD](../../groups/zilargo-pd.md)
 - [House Sivis](../../groups/house-sivis/overview.md)
 - [The Trust](../../groups/the-trust/overview.md)

@@ -91,6 +91,6 @@ His employment history prior to the College of Drystone is not in any file the c
 
 ### Related Docs
 
-- [College Of Drystone](../../locations/zilargo/college-of-drystone.md)
+- [College Of Drystone](../../locations/zilargo/korranberg/college-of-drystone.md)
 - [The Trust](../../groups/the-trust/overview.md)
 - [Glitter Binderly Bimpnottin](glitter-binderly-bimpnottin.md)

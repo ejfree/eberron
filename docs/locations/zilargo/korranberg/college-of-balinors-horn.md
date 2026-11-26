@@ -42,7 +42,7 @@ Plans and funds expeditions to Xen'drik, the Argonessen coast, and the Mournland
 
 #### Magical Creatures Ward
 
-Study of constructs, oozes, and mimics. Occasionally consults outside experts, such as [Margery Yardley](../../people/zilargo/margery-yardley.md).
+Study of constructs, oozes, and mimics. Occasionally consults outside experts, such as [Margery Yardley](../../../people/zilargo/margery-yardley.md).
 
 #### Restricted — Specimen Vault
 
@@ -58,9 +58,9 @@ Dangerous and unidentified specimens. Access by Head's order.
 
 | Name | Role | Location |
 | --- | --- | --- |
-| [Head Thessaly Brimm](../../people/zilargo/thessaly-brimm.md) | Head of Balinor's Horn | Menagerie |
-| [Field Marshal Ruddock Hale](../../people/zilargo/ruddock-hale.md) | Head, Field Expedition Office | Expedition Office |
-| [Curator Ysolde Pimm](../../people/zilargo/ysolde-pimm.md) | Curator, Magical Creatures Ward | Creatures Ward |
+| [Head Thessaly Brimm](../../../people/zilargo/thessaly-brimm.md) | Head of Balinor's Horn | Menagerie |
+| [Field Marshal Ruddock Hale](../../../people/zilargo/ruddock-hale.md) | Head, Field Expedition Office | Expedition Office |
+| [Curator Ysolde Pimm](../../../people/zilargo/ysolde-pimm.md) | Curator, Magical Creatures Ward | Creatures Ward |
 
 ### Magic, Wards, and Infrastructure
 
@@ -93,6 +93,6 @@ Dangerous and unidentified specimens. Access by Head's order.
 ### Related Docs
 
 - [Library of Korranberg](library-of-korranberg.md)
-- [Korranberg](korranberg.md)
+- [Korranberg](../korranberg.md)
 - [College of Drystone](college-of-drystone.md)
-- [The Trust](../../groups/the-trust/overview.md)
+- [The Trust](../../../groups/the-trust/overview.md)

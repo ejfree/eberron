@@ -127,9 +127,9 @@ The external stonework of the tower, measured from the outside, suggests the bui
 
 | Name | Role | Location |
 | --- | --- | --- |
-| [Umpeen Bafflestone](../../people/zilargo/umpeen-bafflestone.md) | Administrative Gatekeeper | Basement |
-| [Roondar Timbers](../../people/zilargo/roondar-timbers.md) | Director, Schematics & Prototypes | 4th Floor |
-| [Zanna Ironhide](../../people/zilargo/zanna-ironhide.md) | Director, Museum | 5th Floor |
+| [Umpeen Bafflestone](../../../people/zilargo/umpeen-bafflestone.md) | Administrative Gatekeeper | Basement |
+| [Roondar Timbers](../../../people/zilargo/roondar-timbers.md) | Director, Schematics & Prototypes | 4th Floor |
+| [Zanna Ironhide](../../../people/zilargo/zanna-ironhide.md) | Director, Museum | 5th Floor |
 
 ### Magic, Wards, and Infrastructure
 
@@ -158,10 +158,10 @@ The external stonework of the tower, measured from the outside, suggests the bui
 ### Related Docs
 
 - [Library of Korranberg](library-of-korranberg.md)
-- [Korranberg](korranberg.md)
-- [Umpeen Bafflestone](../../people/zilargo/umpeen-bafflestone.md)
-- [Roondar Timbers](../../people/zilargo/roondar-timbers.md)
-- [Glitter](../../people/zilargo/glitter-binderly-bimpnottin.md)
-- [Jabbie Boondiggles](../../people/zilargo/jabbie-boondiggles.md)
-- [Wobbles Cobblepot](../../people/zilargo/wobbles-cobblepot.md)
-- [The Trust](../../groups/the-trust/overview.md)
+- [Korranberg](../korranberg.md)
+- [Umpeen Bafflestone](../../../people/zilargo/umpeen-bafflestone.md)
+- [Roondar Timbers](../../../people/zilargo/roondar-timbers.md)
+- [Glitter](../../../people/zilargo/glitter-binderly-bimpnottin.md)
+- [Jabbie Boondiggles](../../../people/zilargo/jabbie-boondiggles.md)
+- [Wobbles Cobblepot](../../../people/zilargo/wobbles-cobblepot.md)
+- [The Trust](../../../groups/the-trust/overview.md)

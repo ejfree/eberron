@@ -44,7 +44,7 @@ Diplomatic, patient, and quietly exhausted by eight rival heads. Hates losing a 
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Library Of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- Frequent locations: [Library Of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Diplomatic, patient, and quietly exhausted by eight rival heads. Hates losing a 
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Library Of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- Affiliations/Factions: [Library Of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ No affiliation. (Zilargo being what it is, a neighbor may well inform on them.)
 
 ### Related Docs
 
-- [Library Of Korranberg](../../locations/zilargo/library-of-korranberg.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Library Of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)

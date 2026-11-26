@@ -44,7 +44,7 @@ Proud of every exhibit and quick to lecture about it. Hates "do not touch" signs
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Drystone](../../locations/zilargo/college-of-drystone.md)
+- Frequent locations: [Drystone](../../locations/zilargo/korranberg/college-of-drystone.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Proud of every exhibit and quick to lecture about it. Hates "do not touch" signs
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Drystone](../../locations/zilargo/college-of-drystone.md)
+- Affiliations/Factions: [Drystone](../../locations/zilargo/korranberg/college-of-drystone.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ No affiliation. (Zilargo being what it is, a neighbor may well inform on them.)
 
 ### Related Docs
 
-- [Drystone](../../locations/zilargo/college-of-drystone.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Drystone](../../locations/zilargo/korranberg/college-of-drystone.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)

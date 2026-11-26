@@ -44,7 +44,7 @@ Gruff, funny, and protective of his teams. Hates desk work.
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Balinors Horn](../../locations/zilargo/college-of-balinors-horn.md)
+- Frequent locations: [Balinors Horn](../../locations/zilargo/korranberg/college-of-balinors-horn.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Gruff, funny, and protective of his teams. Hates desk work.
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Balinors Horn](../../locations/zilargo/college-of-balinors-horn.md)
+- Affiliations/Factions: [Balinors Horn](../../locations/zilargo/korranberg/college-of-balinors-horn.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ Level 2 Trust Spy, External Intelligence (XI, Sailsight). Expeditions provide co
 
 ### Related Docs
 
-- [Balinors Horn](../../locations/zilargo/college-of-balinors-horn.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Balinors Horn](../../locations/zilargo/korranberg/college-of-balinors-horn.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)

@@ -26,7 +26,7 @@ The Zil formally allied with Breland in 962 YK, and the Treaty of Thronehold con
 
 ### Interior and Layout
 
-- Notable areas/rooms: [Korranberg](korranberg.md), the cultural and knowledge capital and the terminus of the lightning rail; Trolanport, the government seat and a center of shipbuilding and cartography; [Zolanberg](zolanberg.md), the jewel-mining hub; Dragonroost, the mountain gateway where Zilargo surrendered to Galifar; [Tarandro](tarandro.md); [Thurimbar](thurimbar.md); [Hazelhorn](hazlehorn.md); [the Ladies Lake](ladies-lake.md); [Paluur Draal](paluur-draal.md); [Pylas Pyrial](pylas-pyrial.md).
+- Notable areas/rooms: [Korranberg](korranberg.md), the cultural and knowledge capital and the terminus of the lightning rail; [Trolanport](trolanport.md), the government seat and a center of shipbuilding and cartography; [Zolanberg](zolanberg.md), the jewel-mining hub; [Dragonroost](dragonroost.md), the mountain gateway where Zilargo surrendered to Galifar; [Tarandro](tarandro.md); [Thurimbar](thurimbar.md); [Hazelhorn](hazlehorn.md); [the Ladies Lake](ladies-lake.md); [Paluur Draal](paluur-draal.md); [Pylas Pyrial](pylas-pyrial.md). Other settlements: [Liugwen](liugwen.md), [Oskilor](oskilor.md), [Quesk](quesk.md), [Reven](reven.md), [Tariston](tariston.md), [Tzanthus](tzanthus.md). Features: [the Howling Peaks](howling-peaks.md), [the Seawall Mountains](seawall-mountains.md), [the Straits of Shargon](straits-of-shargon.md).
 - Capacity/scale: About 2.5 million people.
 - Accessibility (flight, ramps, portals): The lightning rail runs along the eastern border, stopping at Zolanberg and ending at Korranberg; Orien roads link the towns.
 
@@ -70,19 +70,30 @@ The Zil formally allied with Breland in 962 YK, and the Treaty of Thronehold con
 ### Related Docs
 
 - [Khorvaire map](../../../assets/maps/True%20and%20Accurate%20Map%20of%20Khorvaire%20-%20Eberron_sv.jpeg)
-- [Aureon's Holt](college-of-aureons-holt.md)
-- [Balinor's Horn](college-of-balinors-horn.md)
-- [Blackdragon](college-of-blackdragon.md)
-- [College of Drystone](college-of-drystone.md)
-- [Lyrris](college-of-lyrris.md)
-- [Morridan](college-of-morridan.md)
-- [Soladas](college-of-soladas.md)
-- [The Tabernacle](college-of-tabernacle.md)
+- [Aureon's Holt](korranberg/college-of-aureons-holt.md)
+- [Balinor's Horn](korranberg/college-of-balinors-horn.md)
+- [Blackdragon](korranberg/college-of-blackdragon.md)
+- [College of Drystone](korranberg/college-of-drystone.md)
+- [Lyrris](korranberg/college-of-lyrris.md)
+- [Morridan](korranberg/college-of-morridan.md)
+- [Soladas](korranberg/college-of-soladas.md)
+- [The Tabernacle](korranberg/college-of-tabernacle.md)
 - [Finners](finners.md)
 - [Hazelhorn](hazlehorn.md)
+- [Dragonroost](dragonroost.md)
+- [Howling Peaks](howling-peaks.md)
+- [Liugwen](liugwen.md)
+- [Oskilor](oskilor.md)
+- [Quesk](quesk.md)
+- [Reven](reven.md)
+- [Seawall Mountains](seawall-mountains.md)
+- [Straits of Shargon](straits-of-shargon.md)
+- [Tariston](tariston.md)
+- [Trolanport](trolanport.md)
+- [Tzanthus](tzanthus.md)
 - [Korranberg](korranberg.md)
 - [The Ladies Lake](ladies-lake.md)
-- [The Library of Korranberg](library-of-korranberg.md)
+- [The Library of Korranberg](korranberg/library-of-korranberg.md)
 - [Paluur Draal](paluur-draal.md)
 - [Pylas Pyrial](pylas-pyrial.md)
 - [Seers Transmuter](seers-transmuter.md)

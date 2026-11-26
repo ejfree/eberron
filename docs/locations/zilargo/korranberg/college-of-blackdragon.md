@@ -58,9 +58,9 @@ Warded cellars where unstable compounds and failed experiments are stored.
 
 | Name | Role | Location |
 | --- | --- | --- |
-| [Head Marguerite Saltmere](../../people/zilargo/marguerite-saltmere.md) | Head of Blackdragon | Compliance Office |
-| [Master Apothecary Bram Quillfeather](../../people/zilargo/bram-quillfeather.md) | Head, Dispensary | Dispensary |
-| [Inspector Ottoline Marsh](../../people/zilargo/ottoline-marsh.md) | Chief, Compliance & Incidents | Compliance Office |
+| [Head Marguerite Saltmere](../../../people/zilargo/marguerite-saltmere.md) | Head of Blackdragon | Compliance Office |
+| [Master Apothecary Bram Quillfeather](../../../people/zilargo/bram-quillfeather.md) | Head, Dispensary | Dispensary |
+| [Inspector Ottoline Marsh](../../../people/zilargo/ottoline-marsh.md) | Chief, Compliance & Incidents | Compliance Office |
 
 ### Magic, Wards, and Infrastructure
 
@@ -93,6 +93,6 @@ Warded cellars where unstable compounds and failed experiments are stored.
 ### Related Docs
 
 - [Library of Korranberg](library-of-korranberg.md)
-- [Korranberg](korranberg.md)
+- [Korranberg](../korranberg.md)
 - [College of Drystone](college-of-drystone.md)
-- [The Trust](../../groups/the-trust/overview.md)
+- [The Trust](../../../groups/the-trust/overview.md)

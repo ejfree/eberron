@@ -58,9 +58,9 @@ Cryptography and code-breaking. Works with the Notaries Guild and, quietly, the 
 
 | Name | Role | Location |
 | --- | --- | --- |
-| [Provost Quillon Tarnsby](../../people/zilargo/quillon-tarnsby.md) | Provost of Morridan | Atrium office |
-| [Professor Hettie Gallowmere](../../people/zilargo/hettie-gallowmere.md) | Head, Arcane Geometry | Geometry Wing |
-| [Director Pell Vossen](../../people/zilargo/pell-vossen.md) | Director, Cipher Office | Restricted |
+| [Provost Quillon Tarnsby](../../../people/zilargo/quillon-tarnsby.md) | Provost of Morridan | Atrium office |
+| [Professor Hettie Gallowmere](../../../people/zilargo/hettie-gallowmere.md) | Head, Arcane Geometry | Geometry Wing |
+| [Director Pell Vossen](../../../people/zilargo/pell-vossen.md) | Director, Cipher Office | Restricted |
 
 ### Magic, Wards, and Infrastructure
 
@@ -82,7 +82,7 @@ Cryptography and code-breaking. Works with the Notaries Guild and, quietly, the 
 
 ### Relationships and Dependencies
 
-- Linked locations (by function or traffic): [Drystone](college-of-drystone.md) (engineering collaboration), [Blackdragon](college-of-blackdragon.md) (material modeling), [Notaries Guild](korranberg.md)
+- Linked locations (by function or traffic): [Drystone](college-of-drystone.md) (engineering collaboration), [Blackdragon](college-of-blackdragon.md) (material modeling), [Notaries Guild](../korranberg.md)
 
 ### GM Notes
 
@@ -93,6 +93,6 @@ Cryptography and code-breaking. Works with the Notaries Guild and, quietly, the 
 ### Related Docs
 
 - [Library of Korranberg](library-of-korranberg.md)
-- [Korranberg](korranberg.md)
+- [Korranberg](../korranberg.md)
 - [College of Drystone](college-of-drystone.md)
-- [The Trust](../../groups/the-trust/overview.md)
+- [The Trust](../../../groups/the-trust/overview.md)

@@ -95,6 +95,6 @@ He owned and operated a small restaurant in Korranberg for several years. By all
 
 ### Related Docs
 
-- [College Of Drystone](../../locations/zilargo/college-of-drystone.md)
+- [College Of Drystone](../../locations/zilargo/korranberg/college-of-drystone.md)
 - [Glitter Binderly Bimpnottin](glitter-binderly-bimpnottin.md)
 - [Lysse Lyrriman D Sivis](lysse-lyrriman-d-sivis.md)

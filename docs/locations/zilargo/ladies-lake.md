@@ -10,13 +10,13 @@ updated: 2026-11-24
 ---
 ### The Ladies Lake
 
-The second stop on the way to @[Tarandro](settlement:d8ceedeb-f237-4bed-9d41-080d8bb60a7f) is the famous Ladies Lake.
+The second stop on the way to [Tarandro](tarandro.md) is the famous Ladies Lake.
 
 ### Function and Purpose
 
 Satyr & 2 Dryads
 
- It is famous for the Glimmercat. Due to the influence of two dryads, @[Amabalis](person:00e057f0-6d02-420f-8c5c-3b64c0e9c4a3) and @[Laurenia](person:569213c1-e2be-4754-8df0-ef7839a1ac03) who live on the Northern & Southern sides of the lake in the Shimmerwood forest. The eastern edge of the lake is the Inns of the Lakies Lake. They are resort location in Zilargo that offers
+ It is famous for the Glimmercat. Due to the influence of two dryads, Amabalis and Laurenia who live on the Northern & Southern sides of the lake in the Shimmerwood forest. The eastern edge of the lake is the Inns of the Lakies Lake. They are resort location in Zilargo that offers
 
 ### Location Details
 
@@ -105,8 +105,8 @@ He leaves goins medals for Amabalis and leaves his whisper flute for Laurenia to
 
 ### Rumors, Secrets, and Risks
 
-The dryad on the northern Side is @[Laurenia](person:569213c1-e2be-4754-8df0-ef7839a1ac03)
-The dryad on the southern side is @[Amabalis](person:00e057f0-6d02-420f-8c5c-3b64c0e9c4a3)
+The dryad on the northern Side is Laurenia
+The dryad on the southern side is Amabalis
 
 The are both very very upset. So upset that it is impacting the lake. The Red & Green Oaks favored by the  are no longer dropping their special acorns into the lake. The glimmercat population has stopped growing. Our business is horrible.
 Famous lake comp the Glimmerwood letely surrounded by

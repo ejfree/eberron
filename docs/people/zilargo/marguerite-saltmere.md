@@ -44,7 +44,7 @@ Blunt and darkly humorous. Treats safety rules as sacred and accidents as inevit
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Blackdragon](../../locations/zilargo/college-of-blackdragon.md)
+- Frequent locations: [Blackdragon](../../locations/zilargo/korranberg/college-of-blackdragon.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Blunt and darkly humorous. Treats safety rules as sacred and accidents as inevit
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Blackdragon](../../locations/zilargo/college-of-blackdragon.md)
+- Affiliations/Factions: [Blackdragon](../../locations/zilargo/korranberg/college-of-blackdragon.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ No affiliation. (Zilargo being what it is, a neighbor may well inform on them.)
 
 ### Related Docs
 
-- [Blackdragon](../../locations/zilargo/college-of-blackdragon.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Blackdragon](../../locations/zilargo/korranberg/college-of-blackdragon.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)

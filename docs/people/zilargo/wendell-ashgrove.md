@@ -44,7 +44,7 @@ Gentle and rambling; loses track of the present in the middle of a sentence.
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Soladas](../../locations/zilargo/college-of-soladas.md)
+- Frequent locations: [Soladas](../../locations/zilargo/korranberg/college-of-soladas.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Gentle and rambling; loses track of the present in the middle of a sentence.
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Soladas](../../locations/zilargo/college-of-soladas.md)
+- Affiliations/Factions: [Soladas](../../locations/zilargo/korranberg/college-of-soladas.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ No affiliation. (Zilargo being what it is, a neighbor may well inform on them.)
 
 ### Related Docs
 
-- [Soladas](../../locations/zilargo/college-of-soladas.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Soladas](../../locations/zilargo/korranberg/college-of-soladas.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)

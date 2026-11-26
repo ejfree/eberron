@@ -44,7 +44,7 @@ Energetic, curious, and a little predatory about a good story.
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Lyrris](../../locations/zilargo/college-of-lyrris.md)
+- Frequent locations: [Lyrris](../../locations/zilargo/korranberg/college-of-lyrris.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Energetic, curious, and a little predatory about a good story.
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Lyrris](../../locations/zilargo/college-of-lyrris.md)
+- Affiliations/Factions: [Lyrris](../../locations/zilargo/korranberg/college-of-lyrris.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ Level 2 Trust Spy, External Intelligence (XI, Ink Pulse). She steers coverage ab
 
 ### Related Docs
 
-- [Lyrris](../../locations/zilargo/college-of-lyrris.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Lyrris](../../locations/zilargo/korranberg/college-of-lyrris.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)

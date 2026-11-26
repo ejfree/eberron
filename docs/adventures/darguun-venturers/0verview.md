@@ -23,7 +23,7 @@ This is a short Maybe it is all about the ancient hobgoblin empire. We run all o
 ## Above the Table *(GM only)*
 
 	People are disappearing in Vineyards north of Zilago
-  Death cult is based on the archeology. A long descendant of that Hobgoblin Samurai is staking his claim on Zilargo. He is trying to be quiet and build his forces. He is building the @[A-Team](formation:fb62132a-dd77-4199-a86e-1d150e93cff5),  a crack squad of commandos, whom he freed from prision after they robbed a bank. He wants to cause a distraction by invading the wineries.
+  Death cult is based on the archeology. A long descendant of that Hobgoblin Samurai is staking his claim on Zilargo. He is trying to be quiet and build his forces. He is building the A-Team,  a crack squad of commandos, whom he freed from prision after they robbed a bank. He wants to cause a distraction by invading the wineries.
 
 The leader of this group is Lord Shac Shock, first and stupidest son of Baron Shed Shock. He has the lightning lure cantrip like his dad.
 

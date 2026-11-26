@@ -103,14 +103,14 @@ The interior of Korranberg is organized around the Citadel at its center. Moving
 
 The northern interior of the city, immediately inside the northern wall. The eight colleges of the Library of Korranberg occupy large, architecturally distinct structures arranged around the Ellipse. This quarter has its own internal roads and is perpetually busy with students, scholars, and visitors. It is the most densely studied and watched neighborhood in all of Zilargo.
 
-- **#1** — [The Tabernacle](college-of-tabernacle.md) *(religion and philosophy)*
-- **#2** — [Morridan](college-of-morridan.md) *(mathematics)*
-- **#3** — [Aureon's Holt](college-of-aureons-holt.md) *(law and oratory)*
-- **#4** — [Blackdragon](college-of-blackdragon.md) *(alchemy)*
-- **#5** — [Drystone](college-of-drystone.md) *(engineering)*
-- **#6** — [Balinor's Horn](college-of-balinors-horn.md) *(natural sciences)*
-- **#7** — [Soladas](college-of-soladas.md) *(history)*
-- **#8** — [Lyrris](college-of-lyrris.md) *(art and literature)*
+- **#1** — [The Tabernacle](korranberg/college-of-tabernacle.md) *(religion and philosophy)*
+- **#2** — [Morridan](korranberg/college-of-morridan.md) *(mathematics)*
+- **#3** — [Aureon's Holt](korranberg/college-of-aureons-holt.md) *(law and oratory)*
+- **#4** — [Blackdragon](korranberg/college-of-blackdragon.md) *(alchemy)*
+- **#5** — [Drystone](korranberg/college-of-drystone.md) *(engineering)*
+- **#6** — [Balinor's Horn](korranberg/college-of-balinors-horn.md) *(natural sciences)*
+- **#7** — [Soladas](korranberg/college-of-soladas.md) *(history)*
+- **#8** — [Lyrris](korranberg/college-of-lyrris.md) *(art and literature)*
 - **#9** — The Ellipse *(central courtyard and gathering space connecting all eight colleges)*
 
 ###### Estates Zone *(northeast, inside walls, along the river)*
@@ -203,9 +203,9 @@ All of the Houses maintain a presence in Korranberg. House Sivis's most ancient 
 ### Related Docs
 
 - [Zilargo](zilargo.md)
-- [Library of Korranberg](library-of-korranberg.md)
-- [College of Drystone](college-of-drystone.md)
-- [Library of Korranberg colleges](library-of-korranberg.md)
+- [Library of Korranberg](korranberg/library-of-korranberg.md)
+- [College of Drystone](korranberg/college-of-drystone.md)
+- [Library of Korranberg colleges](korranberg/library-of-korranberg.md)
 - [House Sivis](../../groups/house-sivis/overview.md)
 - [The Trust](../../groups/the-trust/overview.md)
 - [Zilargo PD](../../groups/zilargo-pd.md)

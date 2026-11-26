@@ -94,7 +94,7 @@ The central courtyard connecting all eight colleges. A large open oval of manicu
 
 #### Organization
 
-The Library of Korranberg is governed by a central council made up of the **Heads** of its eight colleges. The head of the council is always an appointed member of the Korran family; the current chair is **[Alina Alrene ir'Korran](../../people/zilargo/alina-alrene-ir-korran.md)**.
+The Library of Korranberg is governed by a central council made up of the **Heads** of its eight colleges. The head of the council is always an appointed member of the Korran family; the current chair is **[Alina Alrene ir'Korran](../../../people/zilargo/alina-alrene-ir-korran.md)**.
 
 The eight colleges have a fierce rivalry with each other in academic, athletic, and arcane fields. This competition is considered healthy — and occasionally dangerous.
 
@@ -125,7 +125,7 @@ The eight colleges have a fierce rivalry with each other in academic, athletic, 
 
 ### Related Docs
 
-- [Korranberg](korranberg.md)
-- [Zilargo](zilargo.md)
-- [The Trust](../../groups/the-trust/overview.md)
-- [House Sivis](../../groups/house-sivis/overview.md)
+- [Korranberg](../korranberg.md)
+- [Zilargo](../zilargo.md)
+- [The Trust](../../../groups/the-trust/overview.md)
+- [House Sivis](../../../groups/house-sivis/overview.md)

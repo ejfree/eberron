@@ -44,7 +44,7 @@ Timid with strangers, fierce about procedure. Will not hand over a document with
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Aureons Holt](../../locations/zilargo/college-of-aureons-holt.md)
+- Frequent locations: [Aureons Holt](../../locations/zilargo/korranberg/college-of-aureons-holt.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Timid with strangers, fierce about procedure. Will not hand over a document with
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Aureons Holt](../../locations/zilargo/college-of-aureons-holt.md)
+- Affiliations/Factions: [Aureons Holt](../../locations/zilargo/korranberg/college-of-aureons-holt.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ Level 2 Trust Spy, Corporate Intelligence (Corp, Inkdealers). He quietly shares 
 
 ### Related Docs
 
-- [Aureons Holt](../../locations/zilargo/college-of-aureons-holt.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Aureons Holt](../../locations/zilargo/korranberg/college-of-aureons-holt.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)

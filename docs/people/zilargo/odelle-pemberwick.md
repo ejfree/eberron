@@ -44,7 +44,7 @@ Brilliant, impatient with small talk, and endlessly curious about prophetic patt
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Tabernacle](../../locations/zilargo/college-of-tabernacle.md)
+- Frequent locations: [Tabernacle](../../locations/zilargo/korranberg/college-of-tabernacle.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Brilliant, impatient with small talk, and endlessly curious about prophetic patt
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Tabernacle](../../locations/zilargo/college-of-tabernacle.md)
+- Affiliations/Factions: [Tabernacle](../../locations/zilargo/korranberg/college-of-tabernacle.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ Level 2 Trust Spy, Analysis Division (Guts). She reports on Tasker's Dream's fin
 
 ### Related Docs
 
-- [Tabernacle](../../locations/zilargo/college-of-tabernacle.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Tabernacle](../../locations/zilargo/korranberg/college-of-tabernacle.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)

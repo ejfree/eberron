@@ -54,9 +54,9 @@ A vault of sealed contracts, arbitration awards, and notarized agreements. Open 
 
 | Name | Role | Location |
 | --- | --- | --- |
-| [Head Corvane Brightwick](../../people/zilargo/corvane-brightwick.md) | Head of Aureon's Holt | Forum |
-| [Advocate Tamsin Orrelby](../../people/zilargo/tamsin-orrelby.md) | Head, Diplomatic Academy | Diplomatic Academy |
-| [Registrar Jask Fenmoor](../../people/zilargo/jask-fenmoor.md) | Keeper, Fine Print Registry | Restricted |
+| [Head Corvane Brightwick](../../../people/zilargo/corvane-brightwick.md) | Head of Aureon's Holt | Forum |
+| [Advocate Tamsin Orrelby](../../../people/zilargo/tamsin-orrelby.md) | Head, Diplomatic Academy | Diplomatic Academy |
+| [Registrar Jask Fenmoor](../../../people/zilargo/jask-fenmoor.md) | Keeper, Fine Print Registry | Restricted |
 
 ### Magic, Wards, and Infrastructure
 
@@ -89,6 +89,6 @@ A vault of sealed contracts, arbitration awards, and notarized agreements. Open 
 ### Related Docs
 
 - [Library of Korranberg](library-of-korranberg.md)
-- [Korranberg](korranberg.md)
+- [Korranberg](../korranberg.md)
 - [College of Drystone](college-of-drystone.md)
-- [The Trust](../../groups/the-trust/overview.md)
+- [The Trust](../../../groups/the-trust/overview.md)

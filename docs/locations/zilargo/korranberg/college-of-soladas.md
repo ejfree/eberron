@@ -54,9 +54,9 @@ Descending levels hold older and older material: Dhakaan, giants, and the Age of
 
 | Name | Role | Location |
 | --- | --- | --- |
-| [Head Wendell Ashgrove](../../people/zilargo/wendell-ashgrove.md) | Head of Soladas | Hall of Ages |
-| [Professor Hilda Quarrelby](../../people/zilargo/hilda-quarrelby.md) | Head, Last War Archive | Last War Archive |
-| [Archivist Teodor Marn](../../people/zilargo/teodor-marn.md) | Warden of the Deep Vaults | Deep Vaults |
+| [Head Wendell Ashgrove](../../../people/zilargo/wendell-ashgrove.md) | Head of Soladas | Hall of Ages |
+| [Professor Hilda Quarrelby](../../../people/zilargo/hilda-quarrelby.md) | Head, Last War Archive | Last War Archive |
+| [Archivist Teodor Marn](../../../people/zilargo/teodor-marn.md) | Warden of the Deep Vaults | Deep Vaults |
 
 ### Magic, Wards, and Infrastructure
 
@@ -89,6 +89,6 @@ Descending levels hold older and older material: Dhakaan, giants, and the Age of
 ### Related Docs
 
 - [Library of Korranberg](library-of-korranberg.md)
-- [Korranberg](korranberg.md)
+- [Korranberg](../korranberg.md)
 - [College of Drystone](college-of-drystone.md)
-- [The Trust](../../groups/the-trust/overview.md)
+- [The Trust](../../../groups/the-trust/overview.md)

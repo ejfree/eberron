@@ -1,5 +1,5 @@
 ---
-title: "Coastal town in zilargo on thurim bay. Thurimbar is a large town in southeastern Zilargo. It lies on an Orien trade road between Tarandro and Korranberg. Famous for clams and mushrooms."
+title: "Thurimbar."
 type: location/zilargo
 neighborhood: ""
 category: ""

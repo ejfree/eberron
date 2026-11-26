@@ -87,4 +87,4 @@ There is a bottle of AngryCat 30/30 Reserve Vintage in his locked cabinet. He bo
 
 ### Related Docs
 
-- [College Of Drystone](../../locations/zilargo/college-of-drystone.md)
+- [College Of Drystone](../../locations/zilargo/korranberg/college-of-drystone.md)

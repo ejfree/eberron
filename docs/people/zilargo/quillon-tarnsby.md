@@ -44,7 +44,7 @@ Precise and dry. Respects only correct answers and offers little patience for an
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Morridan](../../locations/zilargo/college-of-morridan.md)
+- Frequent locations: [Morridan](../../locations/zilargo/korranberg/college-of-morridan.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Precise and dry. Respects only correct answers and offers little patience for an
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Morridan](../../locations/zilargo/college-of-morridan.md)
+- Affiliations/Factions: [Morridan](../../locations/zilargo/korranberg/college-of-morridan.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ No affiliation. (Zilargo being what it is, a neighbor may well inform on them.)
 
 ### Related Docs
 
-- [Morridan](../../locations/zilargo/college-of-morridan.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Morridan](../../locations/zilargo/korranberg/college-of-morridan.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)

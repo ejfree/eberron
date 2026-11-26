@@ -44,7 +44,7 @@ Serene to a fault. Answers questions with questions and will not take sides in a
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Tabernacle](../../locations/zilargo/college-of-tabernacle.md)
+- Frequent locations: [Tabernacle](../../locations/zilargo/korranberg/college-of-tabernacle.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Serene to a fault. Answers questions with questions and will not take sides in a
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Tabernacle](../../locations/zilargo/college-of-tabernacle.md)
+- Affiliations/Factions: [Tabernacle](../../locations/zilargo/korranberg/college-of-tabernacle.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ No affiliation. (Zilargo being what it is, a neighbor may well inform on them.)
 
 ### Related Docs
 
-- [Tabernacle](../../locations/zilargo/college-of-tabernacle.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Tabernacle](../../locations/zilargo/korranberg/college-of-tabernacle.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)

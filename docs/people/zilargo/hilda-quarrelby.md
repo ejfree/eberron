@@ -44,7 +44,7 @@ Solemn, kind, and unflinching. Believes truth is owed to the dead.
 
 - Home Neighborhood: Korranberg
 - Home description: ...
-- Frequent locations: [Soladas](../../locations/zilargo/college-of-soladas.md)
+- Frequent locations: [Soladas](../../locations/zilargo/korranberg/college-of-soladas.md)
 - Travel/transport habits: ...
 
 ### Relationships
@@ -52,7 +52,7 @@ Solemn, kind, and unflinching. Believes truth is owed to the dead.
 - Allies/Contacts: ...
 - Rivals/Adversaries: ...
 - Mentors/Students: ...
-- Affiliations/Factions: [Soladas](../../locations/zilargo/college-of-soladas.md)
+- Affiliations/Factions: [Soladas](../../locations/zilargo/korranberg/college-of-soladas.md)
 
 ### Hooks and Encounter Ideas
 
@@ -87,6 +87,6 @@ Informant (Nil). She has reported to a Trust handler in the neighborhood for yea
 
 ### Related Docs
 
-- [Soladas](../../locations/zilargo/college-of-soladas.md)
-- [Library of Korranberg](../../locations/zilargo/library-of-korranberg.md)
+- [Soladas](../../locations/zilargo/korranberg/college-of-soladas.md)
+- [Library of Korranberg](../../locations/zilargo/korranberg/library-of-korranberg.md)
 - [The Trust](../../groups/the-trust/overview.md)
